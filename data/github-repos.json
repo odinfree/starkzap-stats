@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03T07:43:43Z",
-  "total": 120,
+  "updated": "2026-05-04T08:12:06Z",
+  "total": 118,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -309,24 +309,6 @@
         "repo_wide",
         "ts_code",
         "yaml_files"
-      ]
-    },
-    {
-      "full_name": "AmaanSayyad/Starknomo",
-      "url": "https://github.com/AmaanSayyad/Starknomo",
-      "description": "The first on-chain binary options trading dapp on Starknet. Powered by Starknet + Pyth Hermes price attestations + Off-chain state (Supabase) + x402-style payments + StarkZap",
-      "summary": "The first on-chain binary options trading dapp on Starknet. Powered by Starknet + Pyth Hermes price attesta...",
-      "stars": 0,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-03-14",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/69464744?v=4",
-      "match_sources": [
-        "docs_path",
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
       ]
     },
     {
@@ -1301,7 +1283,7 @@
       "full_name": "YATHARTH-Sriv/backendstarkzap",
       "url": "https://github.com/YATHARTH-Sriv/backendstarkzap",
       "description": "",
-      "summary": "This repo contains all the code login with privy username wallet creaion deploy wallet",
+      "summary": "Link To App: https://zenmobile.vercel.app/ <br/>",
       "stars": 0,
       "created_at": "2026-04-19",
       "first_seen_at": "2026-04-20",
@@ -1318,7 +1300,7 @@
       "full_name": "YATHARTH-Sriv/mobilestarkzap",
       "url": "https://github.com/YATHARTH-Sriv/mobilestarkzap",
       "description": "",
-      "summary": "This repo contains all the code login with privy username wallet creaion deploy wallet",
+      "summary": "Link To App: https://zenmobile.vercel.app/ <br/>",
       "stars": 0,
       "created_at": "2026-04-19",
       "first_seen_at": "2026-04-20",
@@ -1390,22 +1372,6 @@
       ]
     },
     {
-      "full_name": "tomevault-io/windsurf-plugins",
-      "url": "https://github.com/tomevault-io/windsurf-plugins",
-      "description": "Windsurf rules converted and distributed by TomeVault",
-      "summary": "Windsurf rules converted and distributed by TomeVault",
-      "stars": 0,
-      "created_at": "2026-04-09",
-      "first_seen_at": "2026-04-22",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/273110059?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
       "full_name": "Chidubemkingsley/Zappay",
       "url": "https://github.com/Chidubemkingsley/Zappay",
       "description": "P2P Naira \u2194 STRK Marketplace. Send \u20a6 via any Nigerian bank \u2014 receive STRK instantly on-chain.",
@@ -1455,20 +1421,6 @@
         "readme",
         "repo_wide",
         "ts_code"
-      ]
-    },
-    {
-      "full_name": "dhanush-devx/dhanush-devx",
-      "url": "https://github.com/dhanush-devx/dhanush-devx",
-      "description": "",
-      "summary": "**Specializing in Stellar \u2022 Starknet \u2022 Python \u2022 AI/LLM Integration**",
-      "stars": 0,
-      "created_at": "2025-03-16",
-      "first_seen_at": "2026-04-24",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
-      "match_sources": [
-        "markdown_files",
-        "readme"
       ]
     },
     {
@@ -1798,19 +1750,6 @@
       ]
     },
     {
-      "full_name": "all-contributors/allcontributors.org",
-      "url": "https://github.com/all-contributors/allcontributors.org",
-      "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
-      "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8035,
-      "created_at": "2016-02-28",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
-      "match_sources": [
-        "starkzap_repo_curated"
-      ]
-    },
-    {
       "full_name": "billyoftea/finradar",
       "url": "https://github.com/billyoftea/finradar",
       "description": "",
@@ -1899,6 +1838,32 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
       "match_sources": [
         "json_files"
+      ]
+    },
+    {
+      "full_name": "all-contributors/allcontributors.org",
+      "url": "https://github.com/all-contributors/allcontributors.org",
+      "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
+      "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
+      "stars": 8037,
+      "created_at": "2016-02-28",
+      "first_seen_at": "2026-05-04",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "match_sources": [
+        "starkzap_repo_curated"
+      ]
+    },
+    {
+      "full_name": "YATHARTH-Sriv/templaterepo",
+      "url": "https://github.com/YATHARTH-Sriv/templaterepo",
+      "description": "",
+      "summary": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/do...",
+      "stars": 0,
+      "created_at": "2026-04-18",
+      "first_seen_at": "2026-05-04",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/126802444?v=4",
+      "match_sources": [
+        "repo_wide"
       ]
     }
   ],
@@ -2011,14 +1976,6 @@
       "login": "AlwaysHungrie",
       "url": "https://github.com/AlwaysHungrie",
       "avatar_url": "https://avatars.githubusercontent.com/u/19796784?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "AmaanSayyad",
-      "url": "https://github.com/AmaanSayyad",
-      "avatar_url": "https://avatars.githubusercontent.com/u/69464744?v=4",
       "sources": [
         "repo_owner"
       ]

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T08:02:15Z",
-  "total": 117,
+  "updated": "2026-05-07T08:09:48Z",
+  "total": 93,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -932,51 +932,6 @@
       ]
     },
     {
-      "full_name": "joshington/sasa",
-      "url": "https://github.com/joshington/sasa",
-      "description": "Send money, Control Spend.  Pesasa lets institutions, NGOs, and families distribute funds with built-in spending controls, ensuring money is used exactly as intended.",
-      "summary": "Send money, Control Spend. Pesasa lets institutions, NGOs, and families distribute funds with built-in spen...",
-      "stars": 1,
-      "created_at": "2025-11-22",
-      "first_seen_at": "2026-04-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/18496928?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "Obsqra-Labs/zkdefi",
-      "url": "https://github.com/Obsqra-Labs/zkdefi",
-      "description": "Proof-gated execution for private DeFi on Starknet. SNARK-in-STARK dual-lane proving, zkML-gated agent composition, portable ZK reputation, tri-chain settlement.",
-      "summary": "Proof-gated execution for private DeFi on Starknet. SNARK-in-STARK dual-lane proving, zkML-gated agent comp...",
-      "stars": 2,
-      "created_at": "2026-01-30",
-      "first_seen_at": "2026-04-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/247914483?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "hoddukzoa12/BTCLP",
-      "url": "https://github.com/hoddukzoa12/BTCLP",
-      "description": "BTCFi Strategy Vault \u2014 Automated LP/Lending yield optimizer on Starknet. Escapes idle capital when BTC exits LP range, returns when profitable again.",
-      "summary": "BTCFi Strategy Vault \u2014 Automated LP/Lending yield optimizer on Starknet. Escapes idle capital when BTC exit...",
-      "stars": 0,
-      "created_at": "2026-03-01",
-      "first_seen_at": "2026-04-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/61504598?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
       "full_name": "imamul-muttakin/safesend",
       "url": "https://github.com/imamul-muttakin/safesend",
       "description": "",
@@ -1314,48 +1269,6 @@
       ]
     },
     {
-      "full_name": "ViktorPosa/hirek",
-      "url": "https://github.com/ViktorPosa/hirek",
-      "description": "hirek cache",
-      "summary": "hirek cache",
-      "stars": 0,
-      "created_at": "2026-01-04",
-      "first_seen_at": "2026-04-22",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/110780399?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "JayWebtech/clutch",
-      "url": "https://github.com/JayWebtech/clutch",
-      "description": "",
-      "summary": "**Clutch** is a livestreaming app where the audience sets the stakes. Viewers challenge the streamer with d...",
-      "stars": 0,
-      "created_at": "2026-03-06",
-      "first_seen_at": "2026-04-22",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/45628811?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "patelchaitany/blockagent",
-      "url": "https://github.com/patelchaitany/blockagent",
-      "description": "Private DeFi Advisory Agent \u2014 Venice AI + Uniswap + EigenCompute TEE",
-      "summary": "Private DeFi Advisory Agent \u2014 Venice AI + Uniswap + EigenCompute TEE",
-      "stars": 0,
-      "created_at": "2026-03-21",
-      "first_seen_at": "2026-04-22",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/67532224?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide"
-      ]
-    },
-    {
       "full_name": "tomevault-io/gemini-extensions",
       "url": "https://github.com/tomevault-io/gemini-extensions",
       "description": "AI instruction files for Gemini CLI \u2014 Extensions Gallery",
@@ -1424,20 +1337,6 @@
       ]
     },
     {
-      "full_name": "EricLeeK/SynCRAG-skill",
-      "url": "https://github.com/EricLeeK/SynCRAG-skill",
-      "description": "",
-      "summary": "<a href=\"https://arxiv.org/abs/2604.xxxxx\"><img src=\"https://img.shields.io/badge/arXiv-cs.AI%20%7C%20cs.IR...",
-      "stars": 0,
-      "created_at": "2026-04-17",
-      "first_seen_at": "2026-04-24",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/75512141?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide"
-      ]
-    },
-    {
       "full_name": "karlostoteles/guessmyNFT",
       "url": "https://github.com/karlostoteles/guessmyNFT",
       "description": "guessmyNFT \u2014 On-chain deduction game with ZK privacy on Starknet",
@@ -1455,21 +1354,6 @@
       ]
     },
     {
-      "full_name": "Galmanus/phantom",
-      "url": "https://github.com/Galmanus/phantom",
-      "description": "Private BTC Yield Manager",
-      "summary": "Private BTC Yield Manager",
-      "stars": 0,
-      "created_at": "2026-03-11",
-      "first_seen_at": "2026-04-29",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/60741154?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
       "full_name": "Akashneelesh/starkzap-skill",
       "url": "https://github.com/Akashneelesh/starkzap-skill",
       "description": "",
@@ -1481,36 +1365,6 @@
       "match_sources": [
         "markdown_files",
         "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "theeagle2407/starkbill",
-      "url": "https://github.com/theeagle2407/starkbill",
-      "description": "",
-      "summary": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/do...",
-      "stars": 0,
-      "created_at": "2026-04-15",
-      "first_seen_at": "2026-04-29",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/169094533?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "adrianvrj/abyss",
-      "url": "https://github.com/adrianvrj/abyss",
-      "description": "Roguelite slot game on Starknet",
-      "summary": "Roguelite slot game on Starknet",
-      "stars": 2,
-      "created_at": "2025-10-17",
-      "first_seen_at": "2026-04-30",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/111903096?v=4",
-      "match_sources": [
-        "json_files",
         "repo_wide",
         "ts_code"
       ]
@@ -1548,20 +1402,6 @@
       ]
     },
     {
-      "full_name": "starknet-innovation/krusty-kms",
-      "url": "https://github.com/starknet-innovation/krusty-kms",
-      "description": "",
-      "summary": "<h1 align=\"center\">Krusty</h1>",
-      "stars": 0,
-      "created_at": "2026-02-18",
-      "first_seen_at": "2026-05-01",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/258895906?v=4",
-      "match_sources": [
-        "repo_wide",
-        "rust_code"
-      ]
-    },
-    {
       "full_name": "riotritik/touch-grass-finance",
       "url": "https://github.com/riotritik/touch-grass-finance",
       "description": "TouchGrass Finance \ud83c\udf31 \u2014 A Web3 productivity protocol where users stake crypto and earn yield by proving they went outside and touched grass using GPS + photo verification.",
@@ -1589,20 +1429,6 @@
       ]
     },
     {
-      "full_name": "owizdom/bobIsAlive",
-      "url": "https://github.com/owizdom/bobIsAlive",
-      "description": "An autonomous digital organism that must earn to survive. It reads biology news, creates art, completes tasks, trades on DeFi, and stakes STRK,  all inside an EigenCompute TEE. If its balance hits zero, it dies. No human bailout.",
-      "summary": "An autonomous digital organism that must earn to survive. It reads biology news, creates art, completes tas...",
-      "stars": 1,
-      "created_at": "2026-03-21",
-      "first_seen_at": "2026-05-02",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide"
-      ]
-    },
-    {
       "full_name": "Mansi2007275/typeracers",
       "url": "https://github.com/Mansi2007275/typeracers",
       "description": "",
@@ -1613,97 +1439,6 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/186802781?v=4",
       "match_sources": [
         "markdown_files"
-      ]
-    },
-    {
-      "full_name": "billyoftea/finradar",
-      "url": "https://github.com/billyoftea/finradar",
-      "description": "",
-      "summary": "<div align=\"center\" id=\"FinRadar\">",
-      "stars": 0,
-      "created_at": "2026-01-29",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/111384449?v=4",
-      "match_sources": [
-        "json_files"
-      ]
-    },
-    {
-      "full_name": "sudosubin/nix-skills",
-      "url": "https://github.com/sudosubin/nix-skills",
-      "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-      "summary": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-      "stars": 1,
-      "created_at": "2026-02-04",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
-      "match_sources": [
-        "json_files"
-      ]
-    },
-    {
-      "full_name": "RajVarsani/skill-builder",
-      "url": "https://github.com/RajVarsani/skill-builder",
-      "description": "",
-      "summary": "Starkzap mention found in repository files.",
-      "stars": 1,
-      "created_at": "2026-02-26",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/74860406?v=4",
-      "match_sources": [
-        "json_files"
-      ]
-    },
-    {
-      "full_name": "GravitySignal/vegvisir-cluster-map",
-      "url": "https://github.com/GravitySignal/vegvisir-cluster-map",
-      "description": "Starknet token holder bubble map visualization \u2014 force-directed graph showing top holders and transfer connections",
-      "summary": "Starknet token holder bubble map visualization \u2014 force-directed graph showing top holders and transfer conn...",
-      "stars": 0,
-      "created_at": "2026-03-13",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/261995388?v=4",
-      "match_sources": [
-        "json_files"
-      ]
-    },
-    {
-      "full_name": "alexnomads/web3-hiring-report",
-      "url": "https://github.com/alexnomads/web3-hiring-report",
-      "description": "Daily Web3 hiring opportunity reports",
-      "summary": "Daily Web3 hiring opportunity reports",
-      "stars": 0,
-      "created_at": "2026-03-17",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/167419833?v=4",
-      "match_sources": [
-        "json_files"
-      ]
-    },
-    {
-      "full_name": "Valorian0108/SwapX",
-      "url": "https://github.com/Valorian0108/SwapX",
-      "description": "Gasless token swaps on starknet",
-      "summary": "Gasless token swaps on starknet",
-      "stars": 1,
-      "created_at": "2026-04-09",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/212873664?v=4",
-      "match_sources": [
-        "json_files"
-      ]
-    },
-    {
-      "full_name": "owizdom/bobIsAlive-test",
-      "url": "https://github.com/owizdom/bobIsAlive-test",
-      "description": "Test deployment of bobIsAlive (non-TEE, Railway)",
-      "summary": "Test deployment of bobIsAlive (non-TEE, Railway)",
-      "stars": 0,
-      "created_at": "2026-04-14",
-      "first_seen_at": "2026-05-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
-      "match_sources": [
-        "json_files"
       ]
     },
     {
@@ -1721,19 +1456,6 @@
       ]
     },
     {
-      "full_name": "all-contributors/allcontributors.org",
-      "url": "https://github.com/all-contributors/allcontributors.org",
-      "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
-      "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8037,
-      "created_at": "2016-02-28",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
-      "match_sources": [
-        "starkzap_repo_curated"
-      ]
-    },
-    {
       "full_name": "unwraplabs/easyleap-sdk-ts",
       "url": "https://github.com/unwraplabs/easyleap-sdk-ts",
       "description": "",
@@ -1744,111 +1466,60 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/194384020?v=4",
       "match_sources": [
         "json_files",
+        "repo_wide",
         "ts_code"
       ]
     },
     {
-      "full_name": "RealAdii/portfolio-2025",
-      "url": "https://github.com/RealAdii/portfolio-2025",
-      "description": "this is me. ",
-      "summary": "this is me.",
-      "stars": 1,
-      "created_at": "2025-11-08",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/153971735?v=4",
+      "full_name": "rust-lang/crates.io-index",
+      "url": "https://github.com/rust-lang/crates.io-index",
+      "description": "Registry index for crates.io",
+      "summary": "Registry index for crates.io",
+      "stars": 704,
+      "created_at": "2014-11-04",
+      "first_seen_at": "2026-05-07",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
       "match_sources": [
-        "js_code"
+        "repo_wide"
       ]
     },
     {
-      "full_name": "AlwaysHungrie/Hypestreet-Game",
-      "url": "https://github.com/AlwaysHungrie/Hypestreet-Game",
+      "full_name": "all-contributors/allcontributors.org",
+      "url": "https://github.com/all-contributors/allcontributors.org",
+      "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
+      "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
+      "stars": 8039,
+      "created_at": "2016-02-28",
+      "first_seen_at": "2026-05-07",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "match_sources": [
+        "starkzap_repo_curated"
+      ]
+    },
+    {
+      "full_name": "ayush-ranjan-official/Covenant-CAD",
+      "url": "https://github.com/ayush-ranjan-official/Covenant-CAD",
+      "description": "This project simulates Bitcoin OP_CAT capabilities to demonstrate Starknet as an execution layer for Bitcoin covenant logic.",
+      "summary": "This project simulates Bitcoin OP_CAT capabilities to demonstrate Starknet as an execution layer for Bitcoi...",
+      "stars": 0,
+      "created_at": "2026-03-09",
+      "first_seen_at": "2026-05-07",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/93761136?v=4",
+      "match_sources": [
+        "markdown_files"
+      ]
+    },
+    {
+      "full_name": "ZeroxMachina/Degen0x",
+      "url": "https://github.com/ZeroxMachina/Degen0x",
       "description": "",
       "summary": "Starkzap mention found in repository files.",
       "stars": 0,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/19796784?v=4",
+      "created_at": "2026-03-11",
+      "first_seen_at": "2026-05-07",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/267402889?v=4",
       "match_sources": [
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "ahmetenesdur/starkfi-telegram-bot",
-      "url": "https://github.com/ahmetenesdur/starkfi-telegram-bot",
-      "description": "",
-      "summary": "AI-powered Telegram bot for [StarkFi](https://starkfi.app) DeFi on Starknet. Swap, stake, lend, batch, DCA,...",
-      "stars": 0,
-      "created_at": "2026-03-16",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/70810472?v=4",
-      "match_sources": [
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "jueduizone/agentrel",
-      "url": "https://github.com/jueduizone/agentrel",
-      "description": "Web3 Developer AI Context Infrastructure - Skills for Web3 Agents",
-      "summary": "Web3 Developer AI Context Infrastructure - Skills for Web3 Agents",
-      "stars": 0,
-      "created_at": "2026-03-18",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/16284115?v=4",
-      "match_sources": [
-        "js_code"
-      ]
-    },
-    {
-      "full_name": "welttowelt/privacy-protocol-analysis",
-      "url": "https://github.com/welttowelt/privacy-protocol-analysis",
-      "description": "Community-maintained overview of privacy protocols in crypto \u2014 who is building what, and how",
-      "summary": "Community-maintained overview of privacy protocols in crypto \u2014 who is building what, and how",
-      "stars": 5,
-      "created_at": "2026-03-18",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/58338510?v=4",
-      "match_sources": [
-        "docs_path"
-      ]
-    },
-    {
-      "full_name": "Cyano88/utility-guardian",
-      "url": "https://github.com/Cyano88/utility-guardian",
-      "description": "",
-      "summary": "**OpenWallet Foundation Hackathon \u2014 Autonomous Utility Management Agent**",
-      "stars": 1,
-      "created_at": "2026-04-03",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/64360653?v=4",
-      "match_sources": [
-        "js_code"
-      ]
-    },
-    {
-      "full_name": "Valorian0108/LiveWire",
-      "url": "https://github.com/Valorian0108/LiveWire",
-      "description": "Instant STRK transfers on Starknet",
-      "summary": "Instant STRK transfers on Starknet",
-      "stars": 1,
-      "created_at": "2026-04-03",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/212873664?v=4",
-      "match_sources": [
-        "js_code"
-      ]
-    },
-    {
-      "full_name": "Expat-Q/equlibria",
-      "url": "https://github.com/Expat-Q/equlibria",
-      "description": "A shared vault protocol built on lifi",
-      "summary": "A shared vault protocol built on lifi",
-      "stars": 0,
-      "created_at": "2026-04-14",
-      "first_seen_at": "2026-05-06",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/128307596?v=4",
-      "match_sources": [
-        "ts_code"
+        "repo_wide"
       ]
     }
   ],
@@ -1898,14 +1569,6 @@
       ]
     },
     {
-      "login": "adrianvrj",
-      "url": "https://github.com/adrianvrj",
-      "avatar_url": "https://avatars.githubusercontent.com/u/111903096?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "adrienlacombe",
       "url": "https://github.com/adrienlacombe",
       "avatar_url": "https://avatars.githubusercontent.com/u/6303520?v=4",
@@ -1942,25 +1605,9 @@
       ]
     },
     {
-      "login": "alexnomads",
-      "url": "https://github.com/alexnomads",
-      "avatar_url": "https://avatars.githubusercontent.com/u/167419833?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "all-contributors",
       "url": "https://github.com/all-contributors",
       "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "AlwaysHungrie",
-      "url": "https://github.com/AlwaysHungrie",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19796784?v=4",
       "sources": [
         "repo_owner"
       ]
@@ -2006,19 +1653,19 @@
       ]
     },
     {
+      "login": "ayush-ranjan-official",
+      "url": "https://github.com/ayush-ranjan-official",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93761136?v=4",
+      "sources": [
+        "repo_owner"
+      ]
+    },
+    {
       "login": "azeemshaik025",
       "url": "https://github.com/azeemshaik025",
       "avatar_url": "https://avatars.githubusercontent.com/u/108066377?v=4",
       "sources": [
         "awesome_starkzap_contributors",
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "billyoftea",
-      "url": "https://github.com/billyoftea",
-      "avatar_url": "https://avatars.githubusercontent.com/u/111384449?v=4",
-      "sources": [
         "repo_owner"
       ]
     },
@@ -2066,14 +1713,6 @@
       "login": "coppolajulien",
       "url": "https://github.com/coppolajulien",
       "avatar_url": "https://avatars.githubusercontent.com/u/3055154?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "Cyano88",
-      "url": "https://github.com/Cyano88",
-      "avatar_url": "https://avatars.githubusercontent.com/u/64360653?v=4",
       "sources": [
         "repo_owner"
       ]
@@ -2135,43 +1774,11 @@
       ]
     },
     {
-      "login": "EricLeeK",
-      "url": "https://github.com/EricLeeK",
-      "avatar_url": "https://avatars.githubusercontent.com/u/75512141?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "Expat-Q",
-      "url": "https://github.com/Expat-Q",
-      "avatar_url": "https://avatars.githubusercontent.com/u/128307596?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "fearmexxx",
       "url": "https://github.com/fearmexxx",
       "avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
       "sources": [
         "awesome_starkzap_contributors",
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "Galmanus",
-      "url": "https://github.com/Galmanus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/60741154?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "GravitySignal",
-      "url": "https://github.com/GravitySignal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/261995388?v=4",
-      "sources": [
         "repo_owner"
       ]
     },
@@ -2195,14 +1802,6 @@
       "login": "hidd3n19",
       "url": "https://github.com/hidd3n19",
       "avatar_url": "https://avatars.githubusercontent.com/u/101340153?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "hoddukzoa12",
-      "url": "https://github.com/hoddukzoa12",
-      "avatar_url": "https://avatars.githubusercontent.com/u/61504598?v=4",
       "sources": [
         "repo_owner"
       ]
@@ -2256,33 +1855,9 @@
       ]
     },
     {
-      "login": "JayWebtech",
-      "url": "https://github.com/JayWebtech",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45628811?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "jedstroke",
       "url": "https://github.com/jedstroke",
       "avatar_url": "https://avatars.githubusercontent.com/u/86930056?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "joshington",
-      "url": "https://github.com/joshington",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18496928?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "jueduizone",
-      "url": "https://github.com/jueduizone",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16284115?v=4",
       "sources": [
         "repo_owner"
       ]
@@ -2369,14 +1944,6 @@
       ]
     },
     {
-      "login": "Obsqra-Labs",
-      "url": "https://github.com/Obsqra-Labs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/247914483?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "OkoliEvans",
       "url": "https://github.com/OkoliEvans",
       "avatar_url": "https://avatars.githubusercontent.com/u/95226065?v=4",
@@ -2417,22 +1984,6 @@
       ]
     },
     {
-      "login": "patelchaitany",
-      "url": "https://github.com/patelchaitany",
-      "avatar_url": "https://avatars.githubusercontent.com/u/67532224?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "RajVarsani",
-      "url": "https://github.com/RajVarsani",
-      "avatar_url": "https://avatars.githubusercontent.com/u/74860406?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "Ravipaygan296",
       "url": "https://github.com/Ravipaygan296",
       "avatar_url": "https://avatars.githubusercontent.com/u/190931130?v=4",
@@ -2464,6 +2015,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/36516516?v=4",
       "sources": [
         "starkzap_core_contributors"
+      ]
+    },
+    {
+      "login": "rust-lang",
+      "url": "https://github.com/rust-lang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
+      "sources": [
+        "repo_owner"
       ]
     },
     {
@@ -2557,14 +2116,6 @@
       ]
     },
     {
-      "login": "starknet-innovation",
-      "url": "https://github.com/starknet-innovation",
-      "avatar_url": "https://avatars.githubusercontent.com/u/258895906?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "starknet-io",
       "url": "https://github.com/starknet-io",
       "avatar_url": "https://avatars.githubusercontent.com/u/104390117?v=4",
@@ -2576,14 +2127,6 @@
       "login": "starkzuri",
       "url": "https://github.com/starkzuri",
       "avatar_url": "https://avatars.githubusercontent.com/u/197254481?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "sudosubin",
-      "url": "https://github.com/sudosubin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
       "sources": [
         "repo_owner"
       ]
@@ -2661,22 +2204,6 @@
       ]
     },
     {
-      "login": "Valorian0108",
-      "url": "https://github.com/Valorian0108",
-      "avatar_url": "https://avatars.githubusercontent.com/u/212873664?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
-      "login": "ViktorPosa",
-      "url": "https://github.com/ViktorPosa",
-      "avatar_url": "https://avatars.githubusercontent.com/u/110780399?v=4",
-      "sources": [
-        "repo_owner"
-      ]
-    },
-    {
       "login": "web3dothan-del",
       "url": "https://github.com/web3dothan-del",
       "avatar_url": "https://avatars.githubusercontent.com/u/260130638?v=4",
@@ -2724,6 +2251,14 @@
       "sources": [
         "awesome_starkzap_contributors",
         "starkzap_core_contributors"
+      ]
+    },
+    {
+      "login": "ZeroxMachina",
+      "url": "https://github.com/ZeroxMachina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267402889?v=4",
+      "sources": [
+        "repo_owner"
       ]
     }
   ],

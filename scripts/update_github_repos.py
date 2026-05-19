@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import datetime
+import http.client
 import json
 import os
 import re
@@ -136,7 +137,7 @@ class GithubClient:
                     except ValueError:
                         pass
                 time.sleep(sleep_seconds)
-            except (urllib.error.URLError, TimeoutError):
+            except (urllib.error.URLError, TimeoutError, http.client.IncompleteRead):
                 if attempt == retries - 1:
                     raise
                 time.sleep(1.2 * (2 ** attempt))
@@ -326,6 +327,39 @@ def main() -> None:
         if source not in entry["sources"]:
             entry["sources"].append(source)
 
+    # Keep the metric cumulative: a repo or builder discovered in an earlier
+    # scan should not disappear just because GitHub Code Search is incomplete
+    # or the current search result window shifts.
+    for key, item in previous_repo_map.items():
+        if key in EXCLUDE_REPOS_LOWER or key in disallowed_repos:
+            continue
+        full_name = item.get("full_name")
+        if not full_name:
+            continue
+        entry = upsert_repo_by_name(full_name, "previous_scan")
+        if not entry:
+            continue
+        entry.update(
+            {
+                "full_name": item.get("full_name") or entry["full_name"],
+                "url": item.get("url") or entry["url"],
+                "description": item.get("description") or entry.get("description") or "",
+                "summary": item.get("summary") or entry.get("summary") or "",
+                "stars": int(item.get("stars") or entry.get("stars") or 0),
+                "created_at": item.get("created_at") or entry.get("created_at") or "",
+                "first_seen_at": item.get("first_seen_at") or entry.get("first_seen_at") or today_iso,
+                "owner_avatar_url": item.get("owner_avatar_url") or entry.get("owner_avatar_url") or "",
+                "match_sources": list(item.get("match_sources") or entry.get("match_sources") or []),
+            }
+        )
+
+    for item in previous_builder_map.values():
+        upsert_builder(
+            item.get("login") or "",
+            "previous_scan",
+            avatar_url=item.get("avatar_url") or "",
+        )
+
     def run_query(query: str, source: str) -> None:
         page = 1
         while True:
@@ -463,6 +497,31 @@ def main() -> None:
 
     for item in builders.values():
         item["sources"] = sorted(set(item.get("sources") or []))
+
+    deduped_repos: Dict[str, dict] = {}
+    for item in resolved_repos:
+        key = (item.get("full_name") or "").lower()
+        if not key:
+            continue
+        existing = deduped_repos.get(key)
+        if not existing:
+            deduped_repos[key] = item
+            continue
+
+        existing["match_sources"] = sorted(
+            set(existing.get("match_sources") or []).union(item.get("match_sources") or [])
+        )
+        existing["stars"] = max(int(existing.get("stars") or 0), int(item.get("stars") or 0))
+        for field in ("url", "description", "summary", "created_at", "owner_avatar_url"):
+            if not existing.get(field) and item.get(field):
+                existing[field] = item[field]
+        if is_iso_date(item.get("first_seen_at", "")) and (
+            not is_iso_date(existing.get("first_seen_at", ""))
+            or item["first_seen_at"] < existing["first_seen_at"]
+        ):
+            existing["first_seen_at"] = item["first_seen_at"]
+
+    resolved_repos = list(deduped_repos.values())
 
     repos_sorted = sorted(
         resolved_repos,

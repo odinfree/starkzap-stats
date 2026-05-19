@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-18T09:34:43Z",
-  "total": 143,
+  "updated": "2026-05-19T07:40:46Z",
+  "total": 126,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -1962,295 +1962,12 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8046,
+      "stars": 8047,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
       "match_sources": [
         "starkzap_repo_curated"
-      ]
-    },
-    {
-      "full_name": "A5hG0/Internship_Recommender",
-      "url": "https://github.com/A5hG0/Internship_Recommender",
-      "description": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and intelligent ranking algorithms. Built with FastAPI, OpenAI embeddings, and a responsive modern frontend.",
-      "summary": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and...",
-      "stars": 0,
-      "created_at": "2025-10-21",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162358157?v=4",
-      "match_sources": [
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "keep-starknet-strange/starknet-agentic",
-      "url": "https://github.com/keep-starknet-strange/starknet-agentic",
-      "description": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
-      "summary": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
-      "stars": 79,
-      "created_at": "2026-01-31",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
-      "match_sources": [
-        "docs_path",
-        "js_code",
-        "json_files",
-        "markdown_files",
-        "python_code",
-        "readme",
-        "repo_wide",
-        "ts_code",
-        "yaml_files"
-      ]
-    },
-    {
-      "full_name": "Demiladepy/starknet-payroll",
-      "url": "https://github.com/Demiladepy/starknet-payroll",
-      "description": "",
-      "summary": "A privacy-preserving payroll app on Starknet with **Starkzap** and **Tongo**: company dashboard, employee m...",
-      "stars": 0,
-      "created_at": "2026-02-17",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/181530843?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "kunal-drall/moonightv0",
-      "url": "https://github.com/kunal-drall/moonightv0",
-      "description": "Your Bitcoin. Your bank. Your yield.",
-      "summary": "Your Bitcoin. Your bank. Your yield.",
-      "stars": 1,
-      "created_at": "2026-02-24",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide",
-        "ts_code",
-        "yaml_files"
-      ]
-    },
-    {
-      "full_name": "fearmexxx/starkfleet-submission",
-      "url": "https://github.com/fearmexxx/starkfleet-submission",
-      "description": "*Privacy-Preserving Turn-Based Battleship on Starknet",
-      "summary": "*Privacy-Preserving Turn-Based Battleship on Starknet",
-      "stars": 0,
-      "created_at": "2026-02-26",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
-      "match_sources": [
-        "awesome_starkzap_curated",
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "BillyInc/sifter-skillup",
-      "url": "https://github.com/BillyInc/sifter-skillup",
-      "description": "Duolingo-style learning app for crypto literacy and quant finance \u2014 React Native/Expo + FastAPI + Supabase",
-      "summary": "Duolingo-style learning app for crypto literacy and quant finance \u2014 React Native/Expo + FastAPI + Supabase",
-      "stars": 2,
-      "created_at": "2026-03-13",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/120611417?v=4",
-      "match_sources": [
-        "js_code",
-        "json_files",
-        "markdown_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "dhanush-devx/TrustMeet",
-      "url": "https://github.com/dhanush-devx/TrustMeet",
-      "description": "",
-      "summary": "> **Show up or pay up.** Web3 meetup coordination with STRK staking on StarkNet.",
-      "stars": 0,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
-      "match_sources": [
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "manojkgorle/zaparena",
-      "url": "https://github.com/manojkgorle/zaparena",
-      "description": "",
-      "summary": "Social wager gaming platform on Starknet. Challenge players to Coin Flip, Rock Paper Scissors, and Price Pr...",
-      "stars": 0,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/65953961?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "Paracausal-Labs/UnoZap",
-      "url": "https://github.com/Paracausal-Labs/UnoZap",
-      "description": "On-chain UNO card game built on Starknet with gasless gameplay",
-      "summary": "On-chain UNO card game built on Starknet with gasless gameplay",
-      "stars": 0,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/253065756?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "sailorworks/starkrage",
-      "url": "https://github.com/sailorworks/starkrage",
-      "description": "",
-      "summary": "**Decentralized Private Infrastructure Protocol**",
-      "stars": 1,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/97829644?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "cryptoumbra-blip/PocketPig",
-      "url": "https://github.com/cryptoumbra-blip/PocketPig",
-      "description": "",
-      "summary": "Browser-first Starknet piggy bank prototype powered by `starkzap`.",
-      "stars": 0,
-      "created_at": "2026-03-15",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/263660399?v=4",
-      "match_sources": [
-        "js_code",
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "harshad-dhokane/ZAPLEND",
-      "url": "https://github.com/harshad-dhokane/ZAPLEND",
-      "description": "",
-      "summary": "> Borrow with less collateral when friends vouch for you. Trust-based lending powered by Starknet and [Star...",
-      "stars": 0,
-      "created_at": "2026-03-15",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "rahipatel1285/ZapLink",
-      "url": "https://github.com/rahipatel1285/ZapLink",
-      "description": "",
-      "summary": "> Generate shareable payment links on **Starknet**. Payers pay **zero gas fees** via [Starkzap Paymaster](h...",
-      "stars": 1,
-      "created_at": "2026-03-16",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
-      "match_sources": [
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "avinashh10x/FreePay",
-      "url": "https://github.com/avinashh10x/FreePay",
-      "description": "",
-      "summary": "FreePay is a lightweight, link-first crypto payment infrastructure that enables anyone to receive payments...",
-      "stars": 0,
-      "created_at": "2026-03-22",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/116658044?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "harshad-dhokane/CircleSave",
-      "url": "https://github.com/harshad-dhokane/CircleSave",
-      "description": "Run savings circles. Swap into STRK. Automate DCA.---Strakzap Build Challenge Submission",
-      "summary": "Run savings circles. Swap into STRK. Automate DCA.---Strakzap Build Challenge Submission",
-      "stars": 0,
-      "created_at": "2026-04-01",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "deeakpan/Divvy",
-      "url": "https://github.com/deeakpan/Divvy",
-      "description": "Programmable token splits on starknet",
-      "summary": "Programmable token splits on starknet",
-      "stars": 0,
-      "created_at": "2026-04-05",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/189696786?v=4",
-      "match_sources": [
-        "js_code",
-        "json_files",
-        "repo_wide",
-        "ts_code"
-      ]
-    },
-    {
-      "full_name": "shuhaib90/starkhub",
-      "url": "https://github.com/shuhaib90/starkhub",
-      "description": "",
-      "summary": "**StarkHub** is a high-fidelity, non-custodial decentralized platform that converges **P2P encrypted messag...",
-      "stars": 1,
-      "created_at": "2026-04-13",
-      "first_seen_at": "2026-05-18",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/210969774?v=4",
-      "match_sources": [
-        "json_files",
-        "markdown_files",
-        "readme",
-        "repo_wide",
-        "ts_code"
       ]
     }
   ],
@@ -2260,6 +1977,7 @@
       "url": "https://github.com/0xchukss",
       "avatar_url": "https://avatars.githubusercontent.com/u/64996976?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2268,6 +1986,7 @@
       "url": "https://github.com/0xLucqs",
       "avatar_url": "https://avatars.githubusercontent.com/u/70894690?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors",
         "starkzap_repo_profiles"
       ]
@@ -2277,6 +1996,7 @@
       "url": "https://github.com/0xshikhar",
       "avatar_url": "https://avatars.githubusercontent.com/u/64684053?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2286,6 +2006,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/107465625?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "repo_owner",
         "starkzap_core_contributors",
         "starkzap_repo_profiles"
@@ -2296,6 +2017,7 @@
       "url": "https://github.com/A5hG0",
       "avatar_url": "https://avatars.githubusercontent.com/u/162358157?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2304,6 +2026,7 @@
       "url": "https://github.com/AbdelStark",
       "avatar_url": "https://avatars.githubusercontent.com/u/45264458?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },
@@ -2312,6 +2035,7 @@
       "url": "https://github.com/adrianvrj",
       "avatar_url": "https://avatars.githubusercontent.com/u/111903096?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2320,6 +2044,7 @@
       "url": "https://github.com/adrienlacombe",
       "avatar_url": "https://avatars.githubusercontent.com/u/6303520?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },
@@ -2328,6 +2053,7 @@
       "url": "https://github.com/ahmetenesdur",
       "avatar_url": "https://avatars.githubusercontent.com/u/70810472?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner",
         "starkzap_core_contributors"
       ]
@@ -2338,6 +2064,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/66639153?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "repo_owner",
         "starkzap_core_contributors",
         "starkzap_repo_profiles"
@@ -2348,6 +2075,7 @@
       "url": "https://github.com/Alajemba-Paul",
       "avatar_url": "https://avatars.githubusercontent.com/u/100224975?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2356,6 +2084,7 @@
       "url": "https://github.com/alexnomads",
       "avatar_url": "https://avatars.githubusercontent.com/u/167419833?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2364,6 +2093,7 @@
       "url": "https://github.com/all-contributors",
       "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2372,6 +2102,7 @@
       "url": "https://github.com/AlwaysHungrie",
       "avatar_url": "https://avatars.githubusercontent.com/u/19796784?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2380,6 +2111,7 @@
       "url": "https://github.com/angelo-xuang",
       "avatar_url": "https://avatars.githubusercontent.com/u/111384449?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2388,6 +2120,7 @@
       "url": "https://github.com/ankushKun",
       "avatar_url": "https://avatars.githubusercontent.com/u/50258860?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2396,6 +2129,7 @@
       "url": "https://github.com/argentum3",
       "avatar_url": "https://avatars.githubusercontent.com/u/35747672?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2404,6 +2138,7 @@
       "url": "https://github.com/Arshad-WD",
       "avatar_url": "https://avatars.githubusercontent.com/u/117998690?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2412,6 +2147,7 @@
       "url": "https://github.com/AtifAssari",
       "avatar_url": "https://avatars.githubusercontent.com/u/242862352?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2420,6 +2156,7 @@
       "url": "https://github.com/avinashh10x",
       "avatar_url": "https://avatars.githubusercontent.com/u/116658044?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2428,6 +2165,7 @@
       "url": "https://github.com/AvinashNayak27",
       "avatar_url": "https://avatars.githubusercontent.com/u/92907147?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2436,6 +2174,7 @@
       "url": "https://github.com/awlygod",
       "avatar_url": "https://avatars.githubusercontent.com/u/145766997?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2444,6 +2183,7 @@
       "url": "https://github.com/ayush-ranjan-official",
       "avatar_url": "https://avatars.githubusercontent.com/u/93761136?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2453,6 +2193,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/108066377?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2461,6 +2202,7 @@
       "url": "https://github.com/BillyInc",
       "avatar_url": "https://avatars.githubusercontent.com/u/120611417?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2469,6 +2211,7 @@
       "url": "https://github.com/Borax0x0",
       "avatar_url": "https://avatars.githubusercontent.com/u/138224287?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2477,6 +2220,7 @@
       "url": "https://github.com/chandanjha34",
       "avatar_url": "https://avatars.githubusercontent.com/u/158586547?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2485,6 +2229,7 @@
       "url": "https://github.com/Chidubemkingsley",
       "avatar_url": "https://avatars.githubusercontent.com/u/140399852?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2493,6 +2238,7 @@
       "url": "https://github.com/cilokcimol",
       "avatar_url": "https://avatars.githubusercontent.com/u/64710698?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2501,6 +2247,7 @@
       "url": "https://github.com/CodeswithrohStudio",
       "avatar_url": "https://avatars.githubusercontent.com/u/248224014?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2509,6 +2256,7 @@
       "url": "https://github.com/coppolajulien",
       "avatar_url": "https://avatars.githubusercontent.com/u/3055154?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2517,6 +2265,7 @@
       "url": "https://github.com/cryptoumbra-blip",
       "avatar_url": "https://avatars.githubusercontent.com/u/263660399?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2525,6 +2274,7 @@
       "url": "https://github.com/Cyano88",
       "avatar_url": "https://avatars.githubusercontent.com/u/64360653?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2533,6 +2283,7 @@
       "url": "https://github.com/debojyoti10CC",
       "avatar_url": "https://avatars.githubusercontent.com/u/181591356?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2541,6 +2292,7 @@
       "url": "https://github.com/deeakpan",
       "avatar_url": "https://avatars.githubusercontent.com/u/189696786?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2549,6 +2301,7 @@
       "url": "https://github.com/Demiladepy",
       "avatar_url": "https://avatars.githubusercontent.com/u/181530843?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2557,6 +2310,7 @@
       "url": "https://github.com/dhanush-devx",
       "avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2565,6 +2319,7 @@
       "url": "https://github.com/dngbuilds",
       "avatar_url": "https://avatars.githubusercontent.com/u/262708876?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2573,6 +2328,7 @@
       "url": "https://github.com/dojoengine",
       "avatar_url": "https://avatars.githubusercontent.com/u/121522969?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2581,6 +2337,7 @@
       "url": "https://github.com/dumprahul",
       "avatar_url": "https://avatars.githubusercontent.com/u/114085760?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2589,6 +2346,7 @@
       "url": "https://github.com/EjembiEmmanuel",
       "avatar_url": "https://avatars.githubusercontent.com/u/83036156?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },
@@ -2597,6 +2355,7 @@
       "url": "https://github.com/eliashezron",
       "avatar_url": "https://avatars.githubusercontent.com/u/60871378?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2605,6 +2364,7 @@
       "url": "https://github.com/Endur-fi",
       "avatar_url": "https://avatars.githubusercontent.com/u/187538332?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2613,6 +2373,7 @@
       "url": "https://github.com/EricLeeK",
       "avatar_url": "https://avatars.githubusercontent.com/u/75512141?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2621,6 +2382,7 @@
       "url": "https://github.com/Expat-Q",
       "avatar_url": "https://avatars.githubusercontent.com/u/128307596?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2630,6 +2392,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2638,6 +2401,7 @@
       "url": "https://github.com/Galmanus",
       "avatar_url": "https://avatars.githubusercontent.com/u/60741154?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2646,6 +2410,7 @@
       "url": "https://github.com/GravitySignal",
       "avatar_url": "https://avatars.githubusercontent.com/u/261995388?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2654,6 +2419,7 @@
       "url": "https://github.com/Grinta-Protocol",
       "avatar_url": "https://avatars.githubusercontent.com/u/265169796?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2662,6 +2428,7 @@
       "url": "https://github.com/harshad-dhokane",
       "avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2670,6 +2437,7 @@
       "url": "https://github.com/hidd3n19",
       "avatar_url": "https://avatars.githubusercontent.com/u/101340153?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2678,6 +2446,7 @@
       "url": "https://github.com/hoddukzoa12",
       "avatar_url": "https://avatars.githubusercontent.com/u/61504598?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2686,6 +2455,7 @@
       "url": "https://github.com/htwtech",
       "avatar_url": "https://avatars.githubusercontent.com/u/182732897?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2694,6 +2464,7 @@
       "url": "https://github.com/Iam-jayant",
       "avatar_url": "https://avatars.githubusercontent.com/u/145249749?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2702,6 +2473,7 @@
       "url": "https://github.com/imamul-muttakin",
       "avatar_url": "https://avatars.githubusercontent.com/u/191975780?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2710,6 +2482,7 @@
       "url": "https://github.com/inline-arc",
       "avatar_url": "https://avatars.githubusercontent.com/u/104635627?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2718,6 +2491,7 @@
       "url": "https://github.com/iPredict-HQ",
       "avatar_url": "https://avatars.githubusercontent.com/u/263628812?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2726,6 +2500,7 @@
       "url": "https://github.com/ivedmohan",
       "avatar_url": "https://avatars.githubusercontent.com/u/118909117?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2734,6 +2509,7 @@
       "url": "https://github.com/JayWebtech",
       "avatar_url": "https://avatars.githubusercontent.com/u/45628811?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2742,6 +2518,7 @@
       "url": "https://github.com/jedstroke",
       "avatar_url": "https://avatars.githubusercontent.com/u/86930056?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2750,6 +2527,7 @@
       "url": "https://github.com/joshington",
       "avatar_url": "https://avatars.githubusercontent.com/u/18496928?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2758,6 +2536,7 @@
       "url": "https://github.com/jueduizone",
       "avatar_url": "https://avatars.githubusercontent.com/u/16284115?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2766,6 +2545,7 @@
       "url": "https://github.com/KaranSinghBisht",
       "avatar_url": "https://avatars.githubusercontent.com/u/69008866?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2774,6 +2554,7 @@
       "url": "https://github.com/karlostoteles",
       "avatar_url": "https://avatars.githubusercontent.com/u/99805785?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2782,6 +2563,7 @@
       "url": "https://github.com/keep-starknet-strange",
       "avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2790,6 +2572,7 @@
       "url": "https://github.com/kunal-drall",
       "avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2798,6 +2581,7 @@
       "url": "https://github.com/Mageshk100",
       "avatar_url": "https://avatars.githubusercontent.com/u/147421609?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2806,6 +2590,7 @@
       "url": "https://github.com/maheshgadi-ai",
       "avatar_url": "https://avatars.githubusercontent.com/u/242104848?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2814,6 +2599,7 @@
       "url": "https://github.com/manojkgorle",
       "avatar_url": "https://avatars.githubusercontent.com/u/65953961?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2822,6 +2608,7 @@
       "url": "https://github.com/Mansi2007275",
       "avatar_url": "https://avatars.githubusercontent.com/u/186802781?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2830,6 +2617,7 @@
       "url": "https://github.com/mediolano-app",
       "avatar_url": "https://avatars.githubusercontent.com/u/181981249?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2838,6 +2626,7 @@
       "url": "https://github.com/memosr",
       "avatar_url": "https://avatars.githubusercontent.com/u/96793918?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2846,6 +2635,7 @@
       "url": "https://github.com/micbakos",
       "avatar_url": "https://avatars.githubusercontent.com/u/6217006?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors",
         "starkzap_repo_profiles"
       ]
@@ -2855,6 +2645,7 @@
       "url": "https://github.com/mushee-io",
       "avatar_url": "https://avatars.githubusercontent.com/u/259690482?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2863,6 +2654,7 @@
       "url": "https://github.com/nagavaishak",
       "avatar_url": "https://avatars.githubusercontent.com/u/125856537?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2871,6 +2663,7 @@
       "url": "https://github.com/Obsqra-Labs",
       "avatar_url": "https://avatars.githubusercontent.com/u/247914483?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2879,6 +2672,7 @@
       "url": "https://github.com/OkoliEvans",
       "avatar_url": "https://avatars.githubusercontent.com/u/95226065?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2887,6 +2681,7 @@
       "url": "https://github.com/Ololadestephen",
       "avatar_url": "https://avatars.githubusercontent.com/u/63858042?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2895,6 +2690,7 @@
       "url": "https://github.com/omarespejel",
       "avatar_url": "https://avatars.githubusercontent.com/u/4755430?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },
@@ -2903,6 +2699,7 @@
       "url": "https://github.com/opensource-observer",
       "avatar_url": "https://avatars.githubusercontent.com/u/145079657?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2911,6 +2708,7 @@
       "url": "https://github.com/Otaiki1",
       "avatar_url": "https://avatars.githubusercontent.com/u/38711713?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2919,6 +2717,7 @@
       "url": "https://github.com/owizdom",
       "avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2927,6 +2726,7 @@
       "url": "https://github.com/Paracausal-Labs",
       "avatar_url": "https://avatars.githubusercontent.com/u/253065756?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2935,6 +2735,7 @@
       "url": "https://github.com/patelchaitany",
       "avatar_url": "https://avatars.githubusercontent.com/u/67532224?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2943,6 +2744,7 @@
       "url": "https://github.com/rahipatel1285",
       "avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2951,6 +2753,7 @@
       "url": "https://github.com/RajVarsani",
       "avatar_url": "https://avatars.githubusercontent.com/u/74860406?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2959,6 +2762,7 @@
       "url": "https://github.com/Ravipaygan296",
       "avatar_url": "https://avatars.githubusercontent.com/u/190931130?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2968,6 +2772,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/153971735?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "repo_owner",
         "starkzap_core_contributors"
       ]
@@ -2977,6 +2782,7 @@
       "url": "https://github.com/riotritik",
       "avatar_url": "https://avatars.githubusercontent.com/u/144029263?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -2985,6 +2791,7 @@
       "url": "https://github.com/robertkodra",
       "avatar_url": "https://avatars.githubusercontent.com/u/36516516?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },
@@ -2993,6 +2800,7 @@
       "url": "https://github.com/sahil22-06",
       "avatar_url": "https://avatars.githubusercontent.com/u/182225075?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3001,6 +2809,7 @@
       "url": "https://github.com/SAHU-01",
       "avatar_url": "https://avatars.githubusercontent.com/u/71656941?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3009,6 +2818,7 @@
       "url": "https://github.com/saiisback",
       "avatar_url": "https://avatars.githubusercontent.com/u/69042752?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3017,6 +2827,7 @@
       "url": "https://github.com/sailorworks",
       "avatar_url": "https://avatars.githubusercontent.com/u/97829644?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3026,6 +2837,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/88471927?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3034,6 +2846,7 @@
       "url": "https://github.com/sandragcarrillo",
       "avatar_url": "https://avatars.githubusercontent.com/u/78260126?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3042,6 +2855,7 @@
       "url": "https://github.com/scarr-exe",
       "avatar_url": "https://avatars.githubusercontent.com/u/128714005?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3050,6 +2864,7 @@
       "url": "https://github.com/SergioSSantiago",
       "avatar_url": "https://avatars.githubusercontent.com/u/44295455?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3058,6 +2873,7 @@
       "url": "https://github.com/sethihq",
       "avatar_url": "https://avatars.githubusercontent.com/u/72229933?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3066,6 +2882,7 @@
       "url": "https://github.com/shariqazeem",
       "avatar_url": "https://avatars.githubusercontent.com/u/101935656?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3074,6 +2891,7 @@
       "url": "https://github.com/shuhaib90",
       "avatar_url": "https://avatars.githubusercontent.com/u/210969774?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3082,6 +2900,7 @@
       "url": "https://github.com/sj719045032",
       "avatar_url": "https://avatars.githubusercontent.com/u/7941762?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3090,6 +2909,7 @@
       "url": "https://github.com/socursemenow",
       "avatar_url": "https://avatars.githubusercontent.com/u/52698157?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3099,6 +2919,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/129275548?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3107,6 +2928,7 @@
       "url": "https://github.com/starknet-innovation",
       "avatar_url": "https://avatars.githubusercontent.com/u/258895906?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3115,6 +2937,7 @@
       "url": "https://github.com/starknet-io",
       "avatar_url": "https://avatars.githubusercontent.com/u/104390117?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3123,6 +2946,7 @@
       "url": "https://github.com/starkzuri",
       "avatar_url": "https://avatars.githubusercontent.com/u/197254481?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3131,6 +2955,7 @@
       "url": "https://github.com/sudosubin",
       "avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3139,6 +2964,7 @@
       "url": "https://github.com/The-Engineer-Network",
       "avatar_url": "https://avatars.githubusercontent.com/u/232935429?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3147,6 +2973,7 @@
       "url": "https://github.com/theeagle2407",
       "avatar_url": "https://avatars.githubusercontent.com/u/169094533?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3155,6 +2982,7 @@
       "url": "https://github.com/Turi-Labs",
       "avatar_url": "https://avatars.githubusercontent.com/u/187839878?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3163,6 +2991,7 @@
       "url": "https://github.com/tusharverma06",
       "avatar_url": "https://avatars.githubusercontent.com/u/117444846?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3171,6 +3000,7 @@
       "url": "https://github.com/unifyWeb3",
       "avatar_url": "https://avatars.githubusercontent.com/u/135211789?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3179,6 +3009,7 @@
       "url": "https://github.com/unwraplabs",
       "avatar_url": "https://avatars.githubusercontent.com/u/194384020?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3187,6 +3018,7 @@
       "url": "https://github.com/ussyalfaks",
       "avatar_url": "https://avatars.githubusercontent.com/u/82191216?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3195,6 +3027,7 @@
       "url": "https://github.com/UtkarshArjariya",
       "avatar_url": "https://avatars.githubusercontent.com/u/103949787?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3203,6 +3036,7 @@
       "url": "https://github.com/Valorian0108",
       "avatar_url": "https://avatars.githubusercontent.com/u/212873664?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3211,6 +3045,7 @@
       "url": "https://github.com/ViktorPosa",
       "avatar_url": "https://avatars.githubusercontent.com/u/110780399?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3219,6 +3054,7 @@
       "url": "https://github.com/web3dothan-del",
       "avatar_url": "https://avatars.githubusercontent.com/u/260130638?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3227,6 +3063,7 @@
       "url": "https://github.com/welttowelt",
       "avatar_url": "https://avatars.githubusercontent.com/u/58338510?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner",
         "starkzap_repo_profiles"
       ]
@@ -3236,6 +3073,7 @@
       "url": "https://github.com/xudaotutou",
       "avatar_url": "https://avatars.githubusercontent.com/u/71751336?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3244,6 +3082,7 @@
       "url": "https://github.com/YanYuanFE",
       "avatar_url": "https://avatars.githubusercontent.com/u/17774285?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3252,6 +3091,7 @@
       "url": "https://github.com/YATHARTH-Sriv",
       "avatar_url": "https://avatars.githubusercontent.com/u/126802444?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3261,6 +3101,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/77751416?v=4",
       "sources": [
         "awesome_starkzap_contributors",
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },
@@ -3269,6 +3110,7 @@
       "url": "https://github.com/ZeroxMachina",
       "avatar_url": "https://avatars.githubusercontent.com/u/267402889?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     }

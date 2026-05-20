@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T08:53:56Z",
+  "updated": "2026-05-20T08:49:05Z",
   "total": 126,
   "repos": [
     {
@@ -2638,6 +2638,14 @@
         "previous_scan",
         "starkzap_core_contributors",
         "starkzap_repo_profiles"
+      ]
+    },
+    {
+      "login": "micbakos-sw",
+      "url": "https://github.com/micbakos-sw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285982685?v=4",
+      "sources": [
+        "starkzap_core_contributors"
       ]
     },
     {

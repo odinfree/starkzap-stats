@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T08:49:05Z",
+  "updated": "2026-05-21T08:51:29Z",
   "total": 126,
   "repos": [
     {
@@ -1570,7 +1570,7 @@
       "url": "https://github.com/opensource-observer/oss-directory",
       "description": "A curated directory of open source software (OSS) projects and their associated artifacts",
       "summary": "A curated directory of open source software (OSS) projects and their associated artifacts",
-      "stars": 93,
+      "stars": 94,
       "created_at": "2023-08-02",
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/145079657?v=4",
@@ -2645,6 +2645,7 @@
       "url": "https://github.com/micbakos-sw",
       "avatar_url": "https://avatars.githubusercontent.com/u/285982685?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },

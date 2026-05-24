@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T08:02:17Z",
+  "updated": "2026-05-24T08:12:53Z",
   "total": 128,
   "repos": [
     {
@@ -2849,6 +2849,7 @@
       "url": "https://github.com/rust-lang",
       "avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T08:12:53Z",
+  "updated": "2026-05-25T09:43:02Z",
   "total": 128,
   "repos": [
     {
@@ -820,7 +820,7 @@
       "full_name": "0xshikhar/hyperx-terminal",
       "url": "https://github.com/0xshikhar/hyperx-terminal",
       "description": "",
-      "summary": "Starkzap mention found in repository files.",
+      "summary": "<strong>Professional Perpetual Futures Trading on Starknet</strong>",
       "stars": 0,
       "created_at": "2026-02-23",
       "first_seen_at": "2026-04-03",
@@ -1962,7 +1962,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8049,
+      "stars": 8050,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",

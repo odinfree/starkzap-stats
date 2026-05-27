@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T09:30:12Z",
+  "updated": "2026-05-27T08:56:05Z",
   "total": 128,
   "repos": [
     {
@@ -1583,7 +1583,7 @@
       "url": "https://github.com/sudosubin/nix-skills",
       "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
       "summary": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-      "stars": 2,
+      "stars": 3,
       "created_at": "2026-02-04",
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
@@ -1962,7 +1962,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8050,
+      "stars": 8052,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",

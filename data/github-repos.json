@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-27T08:56:05Z",
-  "total": 128,
+  "updated": "2026-05-28T09:39:26Z",
+  "total": 130,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
       "url": "https://github.com/keep-starknet-strange/alexandria",
       "description": "Community maintained Cairo  libraries and set of well maintained, optimised and secure components.",
       "summary": "Community maintained Cairo libraries and set of well maintained, optimised and secure components.",
-      "stars": 266,
+      "stars": 265,
       "created_at": "2022-11-25",
       "first_seen_at": "2026-03-06",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
@@ -1993,11 +1993,39 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 713,
+      "stars": 714,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
       "match_sources": [
+        "repo_wide"
+      ]
+    },
+    {
+      "full_name": "Validator-POSTHUMAN/posthuman-source-data",
+      "url": "https://github.com/Validator-POSTHUMAN/posthuman-source-data",
+      "description": "Posthuman Sources",
+      "summary": "Posthuman Sources",
+      "stars": 5,
+      "created_at": "2024-03-05",
+      "first_seen_at": "2026-05-28",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",
+      "match_sources": [
+        "markdown_files"
+      ]
+    },
+    {
+      "full_name": "Validator-POSTHUMAN/AI-skills-for-networks",
+      "url": "https://github.com/Validator-POSTHUMAN/AI-skills-for-networks",
+      "description": "This repo contains AI-skills for networks validated by POSTHUMAN",
+      "summary": "This repo contains AI-skills for networks validated by POSTHUMAN",
+      "stars": 0,
+      "created_at": "2026-05-24",
+      "first_seen_at": "2026-05-28",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",
+      "match_sources": [
+        "markdown_files",
+        "readme",
         "repo_wide"
       ]
     }
@@ -3086,6 +3114,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/103949787?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "Validator-POSTHUMAN",
+      "url": "https://github.com/Validator-POSTHUMAN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

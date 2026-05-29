@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T09:39:26Z",
-  "total": 130,
+  "updated": "2026-05-29T09:29:07Z",
+  "total": 131,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -2028,6 +2028,20 @@
         "readme",
         "repo_wide"
       ]
+    },
+    {
+      "full_name": "Whisker17/multica-research",
+      "url": "https://github.com/Whisker17/multica-research",
+      "description": "",
+      "summary": "Starkzap mention found in repository files.",
+      "stars": 0,
+      "created_at": "2026-05-16",
+      "first_seen_at": "2026-05-29",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/12571049?v=4",
+      "match_sources": [
+        "markdown_files",
+        "repo_wide"
+      ]
     }
   ],
   "builders": [
@@ -3122,6 +3136,7 @@
       "url": "https://github.com/Validator-POSTHUMAN",
       "avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3160,6 +3175,14 @@
         "previous_scan",
         "repo_owner",
         "starkzap_repo_profiles"
+      ]
+    },
+    {
+      "login": "Whisker17",
+      "url": "https://github.com/Whisker17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12571049?v=4",
+      "sources": [
+        "repo_owner"
       ]
     },
     {

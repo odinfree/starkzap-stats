@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T11:02:48Z",
+  "updated": "2026-06-02T09:57:07Z",
   "total": 131,
   "repos": [
     {
@@ -1515,7 +1515,7 @@
       "url": "https://github.com/AtifAssari/MCP-Skills-Universe",
       "description": "",
       "summary": "> **The world's largest open-source collection of AI Agent Skills.**",
-      "stars": 0,
+      "stars": 1,
       "created_at": "2026-05-03",
       "first_seen_at": "2026-05-11",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/242862352?v=4",
@@ -1962,7 +1962,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8053,
+      "stars": 8052,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -1993,7 +1993,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 715,
+      "stars": 716,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T09:38:43Z",
+  "updated": "2026-06-05T09:00:28Z",
   "total": 131,
   "repos": [
     {
@@ -790,7 +790,7 @@
       "url": "https://github.com/mediolano-app/mediolano-app",
       "description": "IP Creator permissionless dapp with Zero Fees \u2013 Programmable IP for the Integrity Web",
       "summary": "IP Creator permissionless dapp with Zero Fees \u2013 Programmable IP for the Integrity Web",
-      "stars": 14,
+      "stars": 15,
       "created_at": "2024-11-15",
       "first_seen_at": "2026-04-03",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181981249?v=4",
@@ -2011,7 +2011,8 @@
       "first_seen_at": "2026-05-28",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -2019,7 +2020,7 @@
       "url": "https://github.com/Validator-POSTHUMAN/AI-skills-for-networks",
       "description": "This repo contains AI-skills for networks validated by POSTHUMAN",
       "summary": "This repo contains AI-skills for networks validated by POSTHUMAN",
-      "stars": 0,
+      "stars": 2,
       "created_at": "2026-05-24",
       "first_seen_at": "2026-05-28",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",

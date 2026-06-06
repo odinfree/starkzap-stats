@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T09:00:28Z",
-  "total": 131,
+  "updated": "2026-06-06T08:20:26Z",
+  "total": 132,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -2043,6 +2043,20 @@
         "markdown_files",
         "repo_wide"
       ]
+    },
+    {
+      "full_name": "paycrest/noblocks",
+      "url": "https://github.com/paycrest/noblocks",
+      "description": "A dApp for seamless crypto-to-fiat conversion.",
+      "summary": "A dApp for seamless crypto-to-fiat conversion.",
+      "stars": 24,
+      "created_at": "2024-09-30",
+      "first_seen_at": "2026-06-06",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/128634635?v=4",
+      "match_sources": [
+        "json_files",
+        "markdown_files"
+      ]
     }
   ],
   "builders": [
@@ -2828,6 +2842,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67532224?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "paycrest",
+      "url": "https://github.com/paycrest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128634635?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

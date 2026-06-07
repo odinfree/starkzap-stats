@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T08:20:26Z",
-  "total": 132,
+  "updated": "2026-06-07T08:41:28Z",
+  "total": 133,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -786,8 +786,8 @@
       ]
     },
     {
-      "full_name": "mediolano-app/mediolano-app",
-      "url": "https://github.com/mediolano-app/mediolano-app",
+      "full_name": "mediolano-os/mediolano-app",
+      "url": "https://github.com/mediolano-os/mediolano-app",
       "description": "IP Creator permissionless dapp with Zero Fees \u2013 Programmable IP for the Integrity Web",
       "summary": "IP Creator permissionless dapp with Zero Fees \u2013 Programmable IP for the Integrity Web",
       "stars": 15,
@@ -1436,7 +1436,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181591356?v=4",
       "match_sources": [
         "markdown_files",
-        "readme"
+        "readme",
+        "repo_wide"
       ]
     },
     {
@@ -1614,7 +1615,8 @@
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/74860406?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "repo_wide"
       ]
     },
     {
@@ -1627,7 +1629,8 @@
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/93761136?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -1640,7 +1643,8 @@
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/261995388?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "repo_wide"
       ]
     },
     {
@@ -1666,7 +1670,8 @@
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/186802781?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -1679,7 +1684,8 @@
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/212873664?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "repo_wide"
       ]
     },
     {
@@ -1692,7 +1698,8 @@
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "repo_wide"
       ]
     },
     {
@@ -1706,7 +1713,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
       "match_sources": [
         "markdown_files",
-        "readme"
+        "readme",
+        "repo_wide"
       ]
     },
     {
@@ -1733,7 +1741,8 @@
       "first_seen_at": "2026-05-16",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/111384449?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "repo_wide"
       ]
     },
     {
@@ -1804,6 +1813,7 @@
       "first_seen_at": "2026-05-16",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/70810472?v=4",
       "match_sources": [
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -1835,7 +1845,8 @@
       "first_seen_at": "2026-05-16",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/16284115?v=4",
       "match_sources": [
-        "js_code"
+        "js_code",
+        "repo_wide"
       ]
     },
     {
@@ -1862,7 +1873,8 @@
       "first_seen_at": "2026-05-16",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "repo_wide"
       ]
     },
     {
@@ -1888,7 +1900,8 @@
       "first_seen_at": "2026-05-16",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/64360653?v=4",
       "match_sources": [
-        "js_code"
+        "js_code",
+        "repo_wide"
       ]
     },
     {
@@ -2054,8 +2067,24 @@
       "first_seen_at": "2026-06-06",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/128634635?v=4",
       "match_sources": [
+        "docs_path",
         "json_files",
-        "markdown_files"
+        "markdown_files",
+        "repo_wide",
+        "ts_code"
+      ]
+    },
+    {
+      "full_name": "web3dothan-del/stark-predit",
+      "url": "https://github.com/web3dothan-del/stark-predit",
+      "description": "",
+      "summary": "Starkzap mention found in repository files.",
+      "stars": 0,
+      "created_at": "2026-04-09",
+      "first_seen_at": "2026-06-07",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/260130638?v=4",
+      "match_sources": [
+        "repo_wide"
       ]
     }
   ],
@@ -2719,6 +2748,14 @@
       ]
     },
     {
+      "login": "mediolano-os",
+      "url": "https://github.com/mediolano-os",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181981249?v=4",
+      "sources": [
+        "repo_owner"
+      ]
+    },
+    {
       "login": "memosr",
       "url": "https://github.com/memosr",
       "avatar_url": "https://avatars.githubusercontent.com/u/96793918?v=4",
@@ -2850,6 +2887,7 @@
       "url": "https://github.com/paycrest",
       "avatar_url": "https://avatars.githubusercontent.com/u/128634635?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },

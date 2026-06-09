@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T10:11:10Z",
+  "updated": "2026-06-09T08:54:51Z",
   "total": 133,
   "repos": [
     {
@@ -2068,6 +2068,7 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/128634635?v=4",
       "match_sources": [
         "docs_path",
+        "js_code",
         "json_files",
         "markdown_files",
         "repo_wide",

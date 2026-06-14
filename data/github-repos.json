@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T08:42:41Z",
-  "total": 150,
+  "updated": "2026-06-14T08:58:12Z",
+  "total": 151,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8058,
+      "stars": 8061,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2118,6 +2118,7 @@
         "markdown_files",
         "python_code",
         "readme",
+        "ts_code",
         "yaml_files"
       ]
     },
@@ -2133,7 +2134,8 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2147,6 +2149,7 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
       "match_sources": [
         "json_files",
+        "ts_code",
         "yaml_files"
       ]
     },
@@ -2161,7 +2164,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
       "match_sources": [
         "awesome_starkzap_curated",
-        "json_files"
+        "json_files",
+        "ts_code"
       ]
     },
     {
@@ -2176,7 +2180,8 @@
       "match_sources": [
         "js_code",
         "json_files",
-        "markdown_files"
+        "markdown_files",
+        "ts_code"
       ]
     },
     {
@@ -2189,7 +2194,8 @@
       "first_seen_at": "2026-06-13",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "ts_code"
       ]
     },
     {
@@ -2204,7 +2210,8 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2219,7 +2226,8 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2250,7 +2258,8 @@
         "js_code",
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2265,7 +2274,8 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2279,7 +2289,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
       "match_sources": [
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2294,7 +2305,8 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2309,7 +2321,8 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
       ]
     },
     {
@@ -2323,7 +2336,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/189696786?v=4",
       "match_sources": [
         "js_code",
-        "json_files"
+        "json_files",
+        "ts_code"
       ]
     },
     {
@@ -2338,7 +2352,21 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "readme"
+        "readme",
+        "ts_code"
+      ]
+    },
+    {
+      "full_name": "estelledc/study",
+      "url": "https://github.com/estelledc/study",
+      "description": "AI \u65f6\u4ee3\u4ea7\u54c1\u5de5\u7a0b\u5e08\u6210\u957f\u8def\u5f84\u5b66\u4e60\u7b14\u8bb0 \u00b7 \u4e3b\u7b14 Claude Code\uff0cJason \u5171\u5efa",
+      "summary": "AI \u65f6\u4ee3\u4ea7\u54c1\u5de5\u7a0b\u5e08\u6210\u957f\u8def\u5f84\u5b66\u4e60\u7b14\u8bb0 \u00b7 \u4e3b\u7b14 Claude Code\uff0cJason \u5171\u5efa",
+      "stars": 0,
+      "created_at": "2026-05-27",
+      "first_seen_at": "2026-06-14",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/150260202?v=4",
+      "match_sources": [
+        "markdown_files"
       ]
     }
   ],
@@ -2754,6 +2782,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/75512141?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "estelledc",
+      "url": "https://github.com/estelledc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150260202?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

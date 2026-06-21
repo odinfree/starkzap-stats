@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T08:36:49Z",
-  "total": 136,
+  "updated": "2026-06-21T09:31:32Z",
+  "total": 137,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -2006,7 +2006,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 721,
+      "stars": 722,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
@@ -2131,6 +2131,20 @@
         "readme",
         "repo_wide",
         "ts_code"
+      ]
+    },
+    {
+      "full_name": "thisyearnofear/sonicguardian",
+      "url": "https://github.com/thisyearnofear/sonicguardian",
+      "description": "",
+      "summary": "**Sonic Identity Protocol \u2014 your creative expression is your on-chain identity.**",
+      "stars": 0,
+      "created_at": "2026-02-23",
+      "first_seen_at": "2026-06-21",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/74209106?v=4",
+      "match_sources": [
+        "docs_path",
+        "json_files"
       ]
     }
   ],
@@ -3200,6 +3214,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/169094533?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "thisyearnofear",
+      "url": "https://github.com/thisyearnofear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74209106?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

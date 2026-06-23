@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T11:28:03Z",
+  "updated": "2026-06-23T08:53:17Z",
   "total": 153,
   "repos": [
     {
@@ -2159,10 +2159,12 @@
       "first_seen_at": "2026-06-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
       "match_sources": [
+        "docs_path",
         "js_code",
         "json_files",
         "markdown_files",
         "python_code",
+        "readme",
         "repo_wide",
         "ts_code",
         "yaml_files"
@@ -2180,6 +2182,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code"
       ]
@@ -2260,6 +2263,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "ts_code"
       ]
     },
@@ -2275,6 +2279,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code"
       ]
@@ -2291,6 +2296,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide"
       ]
     },
@@ -2307,6 +2313,7 @@
         "js_code",
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code"
       ]
@@ -2323,6 +2330,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code"
       ]
@@ -2338,6 +2346,7 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
       "match_sources": [
         "markdown_files",
+        "readme",
         "ts_code"
       ]
     },
@@ -2353,6 +2362,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code"
       ]
@@ -2369,6 +2379,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code"
       ]
@@ -2401,6 +2412,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code"
       ]

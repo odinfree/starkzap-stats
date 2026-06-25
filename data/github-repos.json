@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T08:48:54Z",
+  "updated": "2026-06-25T08:43:43Z",
   "total": 137,
   "repos": [
     {
@@ -776,7 +776,7 @@
       "url": "https://github.com/starknet-io/starknet-docs",
       "description": "Starknet's developer documentation",
       "summary": "Starknet's developer documentation",
-      "stars": 178,
+      "stars": 179,
       "created_at": "2022-01-24",
       "first_seen_at": "2026-04-03",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/104390117?v=4",

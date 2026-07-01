@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T08:51:11Z",
+  "updated": "2026-07-01T09:24:37Z",
   "total": 153,
   "repos": [
     {
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8066,
+      "stars": 8068,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2154,7 +2154,7 @@
       "full_name": "DXJLabs/velix",
       "url": "https://github.com/DXJLabs/velix",
       "description": "",
-      "summary": "VEIL is a private channel workspace for encrypted negotiation, escrow coordination, payment memos, and proo...",
+      "summary": "VEIL is a private communication, negotiation, payment memo, and escrow platform built on Starknet Privacy P...",
       "stars": 0,
       "created_at": "2026-06-23",
       "first_seen_at": "2026-06-29",
@@ -2177,9 +2177,13 @@
       "first_seen_at": "2026-06-30",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
       "match_sources": [
+        "js_code",
         "json_files",
         "markdown_files",
+        "python_code",
+        "readme",
         "repo_wide",
+        "ts_code",
         "yaml_files"
       ]
     },
@@ -2195,7 +2199,9 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "repo_wide"
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2209,6 +2215,7 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
       "match_sources": [
         "json_files",
+        "ts_code",
         "yaml_files"
       ]
     },
@@ -2222,7 +2229,8 @@
       "first_seen_at": "2026-06-30",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
       "match_sources": [
-        "awesome_starkzap_curated"
+        "awesome_starkzap_curated",
+        "ts_code"
       ]
     },
     {
@@ -2236,7 +2244,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
       "match_sources": [
         "json_files",
-        "repo_wide"
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2251,7 +2260,9 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "repo_wide"
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2264,7 +2275,8 @@
       "first_seen_at": "2026-06-30",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253065756?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "readme"
       ]
     },
     {
@@ -2279,6 +2291,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide"
       ]
     },
@@ -2292,8 +2305,11 @@
       "first_seen_at": "2026-06-30",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/263660399?v=4",
       "match_sources": [
+        "js_code",
         "markdown_files",
-        "repo_wide"
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2307,7 +2323,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "match_sources": [
         "json_files",
-        "markdown_files"
+        "markdown_files",
+        "ts_code"
       ]
     },
     {
@@ -2320,7 +2337,8 @@
       "first_seen_at": "2026-06-30",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "readme"
       ]
     },
     {
@@ -2335,7 +2353,9 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "repo_wide"
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2350,7 +2370,9 @@
       "match_sources": [
         "json_files",
         "markdown_files",
-        "repo_wide"
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2363,8 +2385,10 @@
       "first_seen_at": "2026-06-30",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/189696786?v=4",
       "match_sources": [
+        "js_code",
         "json_files",
-        "repo_wide"
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2379,6 +2403,7 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
         "repo_wide"
       ]
     }

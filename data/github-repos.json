@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T09:24:37Z",
-  "total": 153,
+  "updated": "2026-07-02T08:37:32Z",
+  "total": 154,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8068,
+      "stars": 8069,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2177,6 +2177,7 @@
       "first_seen_at": "2026-06-30",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
       "match_sources": [
+        "docs_path",
         "js_code",
         "json_files",
         "markdown_files",
@@ -2215,6 +2216,7 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
       "match_sources": [
         "json_files",
+        "repo_wide",
         "ts_code",
         "yaml_files"
       ]
@@ -2230,6 +2232,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
       "match_sources": [
         "awesome_starkzap_curated",
+        "json_files",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2276,7 +2280,9 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253065756?v=4",
       "match_sources": [
         "markdown_files",
-        "readme"
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2324,6 +2330,8 @@
       "match_sources": [
         "json_files",
         "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2338,7 +2346,9 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
       "match_sources": [
         "markdown_files",
-        "readme"
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2404,6 +2414,20 @@
         "json_files",
         "markdown_files",
         "readme",
+        "repo_wide",
+        "ts_code"
+      ]
+    },
+    {
+      "full_name": "A5hG0/Internship_Recommender",
+      "url": "https://github.com/A5hG0/Internship_Recommender",
+      "description": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and intelligent ranking algorithms. Built with FastAPI, OpenAI embeddings, and a responsive modern frontend.",
+      "summary": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and...",
+      "stars": 0,
+      "created_at": "2025-10-21",
+      "first_seen_at": "2026-07-02",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162358157?v=4",
+      "match_sources": [
         "repo_wide"
       ]
     }

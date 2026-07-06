@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T08:36:11Z",
-  "total": 138,
+  "updated": "2026-07-06T09:49:36Z",
+  "total": 139,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8076,
+      "stars": 8077,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2006,7 +2006,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 726,
+      "stars": 727,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
@@ -2165,6 +2165,19 @@
         "markdown_files",
         "readme",
         "repo_wide"
+      ]
+    },
+    {
+      "full_name": "reclear-io/llmref",
+      "url": "https://github.com/reclear-io/llmref",
+      "description": "Open, versioned documentation and semantic search for AI coding tools",
+      "summary": "Open, versioned documentation and semantic search for AI coding tools",
+      "stars": 1,
+      "created_at": "2026-05-29",
+      "first_seen_at": "2026-07-06",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
+      "match_sources": [
+        "json_files"
       ]
     }
   ],
@@ -3035,6 +3048,14 @@
         "previous_scan",
         "repo_owner",
         "starkzap_core_contributors"
+      ]
+    },
+    {
+      "login": "reclear-io",
+      "url": "https://github.com/reclear-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
+      "sources": [
+        "repo_owner"
       ]
     },
     {

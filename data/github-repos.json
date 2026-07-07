@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T09:49:36Z",
+  "updated": "2026-07-07T09:18:24Z",
   "total": 139,
   "repos": [
     {
@@ -1584,7 +1584,7 @@
       "url": "https://github.com/sudosubin/nix-skills",
       "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
       "summary": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-      "stars": 6,
+      "stars": 7,
       "created_at": "2026-02-04",
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
@@ -3055,6 +3055,7 @@
       "url": "https://github.com/reclear-io",
       "avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },

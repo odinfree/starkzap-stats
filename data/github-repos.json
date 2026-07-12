@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T07:28:27Z",
-  "total": 140,
+  "updated": "2026-07-12T07:54:06Z",
+  "total": 141,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -2196,6 +2196,23 @@
         "repo_wide",
         "ts_code"
       ]
+    },
+    {
+      "full_name": "cxto21/btcfixed",
+      "url": "https://github.com/cxto21/btcfixed",
+      "description": "btcfixed",
+      "summary": "btcfixed",
+      "stars": 0,
+      "created_at": "2026-02-18",
+      "first_seen_at": "2026-07-12",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/101372852?v=4",
+      "match_sources": [
+        "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
+        "ts_code"
+      ]
     }
   ],
   "builders": [
@@ -2520,6 +2537,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/263660399?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "cxto21",
+      "url": "https://github.com/cxto21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101372852?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

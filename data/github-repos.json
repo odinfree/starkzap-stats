@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T08:41:08Z",
-  "total": 154,
+  "updated": "2026-07-14T07:42:29Z",
+  "total": 155,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -1610,7 +1610,7 @@
       "url": "https://github.com/RajVarsani/skill-builder",
       "description": "",
       "summary": "Starkzap mention found in repository files.",
-      "stars": 1,
+      "stars": 2,
       "created_at": "2026-02-26",
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/74860406?v=4",
@@ -2226,7 +2226,9 @@
       "match_sources": [
         "js_code",
         "json_files",
-        "ts_code"
+        "python_code",
+        "ts_code",
+        "yaml_files"
       ]
     },
     {
@@ -2239,7 +2241,8 @@
       "first_seen_at": "2026-07-13",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181530843?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "ts_code"
       ]
     },
     {
@@ -2253,7 +2256,8 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
       "match_sources": [
         "json_files",
-        "ts_code"
+        "ts_code",
+        "yaml_files"
       ]
     },
     {
@@ -2394,6 +2398,19 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/210969774?v=4",
       "match_sources": [
         "json_files",
+        "ts_code"
+      ]
+    },
+    {
+      "full_name": "rahipatel1285/ZapLink",
+      "url": "https://github.com/rahipatel1285/ZapLink",
+      "description": "",
+      "summary": "> Generate shareable payment links on **Starknet**. Payers pay **zero gas fees** via [Starkzap Paymaster](h...",
+      "stars": 1,
+      "created_at": "2026-03-16",
+      "first_seen_at": "2026-07-14",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
+      "match_sources": [
         "ts_code"
       ]
     }

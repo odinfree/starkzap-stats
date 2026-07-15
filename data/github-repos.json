@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T07:42:29Z",
-  "total": 155,
+  "updated": "2026-07-15T07:45:44Z",
+  "total": 156,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -835,8 +835,8 @@
     {
       "full_name": "dumprahul/starkpass",
       "url": "https://github.com/dumprahul/starkpass",
-      "description": "https://youtu.be/9r69H01GaBs",
-      "summary": "https://youtu.be/9r69H01GaBs",
+      "description": "Won Starknet Blitz Mumbai'26",
+      "summary": "Won Starknet Blitz Mumbai'26",
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-04-03",
@@ -2006,7 +2006,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 728,
+      "stars": 730,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
@@ -2224,9 +2224,13 @@
       "first_seen_at": "2026-07-13",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
       "match_sources": [
+        "docs_path",
         "js_code",
         "json_files",
+        "markdown_files",
         "python_code",
+        "readme",
+        "repo_wide",
         "ts_code",
         "yaml_files"
       ]
@@ -2242,6 +2246,9 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181530843?v=4",
       "match_sources": [
         "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2256,6 +2263,7 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
       "match_sources": [
         "json_files",
+        "repo_wide",
         "ts_code",
         "yaml_files"
       ]
@@ -2272,6 +2280,7 @@
       "match_sources": [
         "awesome_starkzap_curated",
         "json_files",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2286,6 +2295,7 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
       "match_sources": [
         "json_files",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2300,6 +2310,9 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/65953961?v=4",
       "match_sources": [
         "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2313,7 +2326,11 @@
       "first_seen_at": "2026-07-13",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253065756?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
+        "ts_code"
       ]
     },
     {
@@ -2326,7 +2343,10 @@
       "first_seen_at": "2026-07-13",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/97829644?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide"
       ]
     },
     {
@@ -2341,6 +2361,9 @@
       "match_sources": [
         "js_code",
         "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2355,6 +2378,9 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "match_sources": [
         "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2369,6 +2395,9 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "match_sources": [
         "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2384,6 +2413,7 @@
       "match_sources": [
         "js_code",
         "json_files",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2398,6 +2428,9 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/210969774?v=4",
       "match_sources": [
         "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
       ]
     },
@@ -2411,7 +2444,23 @@
       "first_seen_at": "2026-07-14",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
       "match_sources": [
+        "markdown_files",
+        "readme",
+        "repo_wide",
         "ts_code"
+      ]
+    },
+    {
+      "full_name": "A5hG0/Internship_Recommender",
+      "url": "https://github.com/A5hG0/Internship_Recommender",
+      "description": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and intelligent ranking algorithms. Built with FastAPI, OpenAI embeddings, and a responsive modern frontend.",
+      "summary": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and...",
+      "stars": 0,
+      "created_at": "2025-10-21",
+      "first_seen_at": "2026-07-15",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162358157?v=4",
+      "match_sources": [
+        "repo_wide"
       ]
     }
   ],

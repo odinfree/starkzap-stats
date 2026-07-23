@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T08:03:42Z",
+  "updated": "2026-07-23T08:06:00Z",
   "total": 143,
   "repos": [
     {
@@ -1474,7 +1474,7 @@
       "url": "https://github.com/Turi-Labs/Newsletter-Editor-Agents",
       "description": "Newsletter Agent",
       "summary": "Newsletter Agent",
-      "stars": 12,
+      "stars": 13,
       "created_at": "2025-04-15",
       "first_seen_at": "2026-05-11",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/187839878?v=4",
@@ -1584,7 +1584,7 @@
       "url": "https://github.com/sudosubin/nix-skills",
       "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
       "summary": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-      "stars": 8,
+      "stars": 9,
       "created_at": "2026-02-04",
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8079,
+      "stars": 8080,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2006,7 +2006,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 733,
+      "stars": 734,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T08:02:17Z",
-  "total": 143,
+  "updated": "2026-07-31T08:27:40Z",
+  "total": 144,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -2246,6 +2246,19 @@
         "repo_wide",
         "ts_code"
       ]
+    },
+    {
+      "full_name": "fatlabsxyz/website",
+      "url": "https://github.com/fatlabsxyz/website",
+      "description": "fat solutions official website",
+      "summary": "fat solutions official website",
+      "stars": 3,
+      "created_at": "2025-02-05",
+      "first_seen_at": "2026-07-31",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/169562550?v=4",
+      "match_sources": [
+        "markdown_files"
+      ]
     }
   ],
   "builders": [
@@ -2723,6 +2736,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/128307596?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "fatlabsxyz",
+      "url": "https://github.com/fatlabsxyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169562550?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

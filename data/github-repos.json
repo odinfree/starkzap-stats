@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T08:56:09Z",
-  "total": 159,
+  "updated": "2026-08-04T08:12:46Z",
+  "total": 146,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -432,8 +432,8 @@
       ]
     },
     {
-      "full_name": "dhanush-devx/zklend",
-      "url": "https://github.com/dhanush-devx/zklend",
+      "full_name": "dhanushonchain/zklend",
+      "url": "https://github.com/dhanushonchain/zklend",
       "description": "",
       "summary": "> Borrow without overcollateralizing. Prove your income range with ZK. No wallet. No gas. No collateral.",
       "stars": 0,
@@ -1703,8 +1703,8 @@
       ]
     },
     {
-      "full_name": "dhanush-devx/dhanush-devx",
-      "url": "https://github.com/dhanush-devx/dhanush-devx",
+      "full_name": "dhanushonchain/dhanushonchain",
+      "url": "https://github.com/dhanushonchain/dhanushonchain",
       "description": "",
       "summary": "**Specializing in Stellar \u2022 Starknet \u2022 Python \u2022 AI/LLM Integration**",
       "stars": 0,
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8086,
+      "stars": 8087,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2006,7 +2006,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 734,
+      "stars": 735,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
@@ -2261,76 +2261,8 @@
       ]
     },
     {
-      "full_name": "A5hG0/Internship_Recommender",
-      "url": "https://github.com/A5hG0/Internship_Recommender",
-      "description": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and intelligent ranking algorithms. Built with FastAPI, OpenAI embeddings, and a responsive modern frontend.",
-      "summary": "A cutting-edge web application that matches students with internships using AI-powered resume analysis and...",
-      "stars": 0,
-      "created_at": "2025-10-21",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162358157?v=4",
-      "match_sources": [
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "keep-starknet-strange/starknet-agentic",
-      "url": "https://github.com/keep-starknet-strange/starknet-agentic",
-      "description": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
-      "summary": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
-      "stars": 81,
-      "created_at": "2026-01-31",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "Demiladepy/starknet-payroll",
-      "url": "https://github.com/Demiladepy/starknet-payroll",
-      "description": "",
-      "summary": "A privacy-preserving payroll app on Starknet with **Starkzap** and **Tongo**: company dashboard, employee m...",
-      "stars": 0,
-      "created_at": "2026-02-17",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/181530843?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "kunal-drall/moonightv0",
-      "url": "https://github.com/kunal-drall/moonightv0",
-      "description": "Your Bitcoin. Your bank. Your yield.",
-      "summary": "Your Bitcoin. Your bank. Your yield.",
-      "stars": 1,
-      "created_at": "2026-02-24",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
-      "match_sources": [
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "fearmexxx/starkfleet-submission",
-      "url": "https://github.com/fearmexxx/starkfleet-submission",
-      "description": "*Privacy-Preserving Turn-Based Battleship on Starknet",
-      "summary": "*Privacy-Preserving Turn-Based Battleship on Starknet",
-      "stars": 0,
-      "created_at": "2026-02-26",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
-      "match_sources": [
-        "awesome_starkzap_curated",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "dhanush-devx/TrustMeet",
-      "url": "https://github.com/dhanush-devx/TrustMeet",
+      "full_name": "dhanushonchain/TrustMeet",
+      "url": "https://github.com/dhanushonchain/TrustMeet",
       "description": "",
       "summary": "> **Show up or pay up.** Web3 meetup coordination with STRK staking on StarkNet.",
       "stars": 0,
@@ -2342,128 +2274,20 @@
       ]
     },
     {
-      "full_name": "manojkgorle/zaparena",
-      "url": "https://github.com/manojkgorle/zaparena",
+      "full_name": "l-henri/gol_starknet",
+      "url": "https://github.com/l-henri/gol_starknet",
       "description": "",
-      "summary": "Social wager gaming platform on Starknet. Challenge players to Coin Flip, Rock Paper Scissors, and Price Pr...",
+      "summary": "A decentralized ecosystem of autonomous digital bacteria living on Starknet, powered by",
       "stars": 0,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/65953961?v=4",
+      "created_at": "2025-01-09",
+      "first_seen_at": "2026-08-04",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/22731646?v=4",
       "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "Paracausal-Labs/UnoZap",
-      "url": "https://github.com/Paracausal-Labs/UnoZap",
-      "description": "On-chain UNO card game built on Starknet with gasless gameplay",
-      "summary": "On-chain UNO card game built on Starknet with gasless gameplay",
-      "stars": 0,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/253065756?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "sailorworks/starkrage",
-      "url": "https://github.com/sailorworks/starkrage",
-      "description": "",
-      "summary": "**Decentralized Private Infrastructure Protocol**",
-      "stars": 1,
-      "created_at": "2026-03-14",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/97829644?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "cryptoumbra-blip/PocketPig",
-      "url": "https://github.com/cryptoumbra-blip/PocketPig",
-      "description": "",
-      "summary": "Browser-first Starknet piggy bank prototype powered by `starkzap`.",
-      "stars": 0,
-      "created_at": "2026-03-15",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/263660399?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "harshad-dhokane/ZAPLEND",
-      "url": "https://github.com/harshad-dhokane/ZAPLEND",
-      "description": "",
-      "summary": "> Borrow with less collateral when friends vouch for you. Trust-based lending powered by Starknet and [Star...",
-      "stars": 0,
-      "created_at": "2026-03-15",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "rahipatel1285/ZapLink",
-      "url": "https://github.com/rahipatel1285/ZapLink",
-      "description": "",
-      "summary": "> Generate shareable payment links on **Starknet**. Payers pay **zero gas fees** via [Starkzap Paymaster](h...",
-      "stars": 1,
-      "created_at": "2026-03-16",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/129024653?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "harshad-dhokane/CircleSave",
-      "url": "https://github.com/harshad-dhokane/CircleSave",
-      "description": "Run savings circles. Swap into STRK. Automate DCA.---Strakzap Build Challenge Submission",
-      "summary": "Run savings circles. Swap into STRK. Automate DCA.---Strakzap Build Challenge Submission",
-      "stars": 0,
-      "created_at": "2026-04-01",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "deeakpan/Divvy",
-      "url": "https://github.com/deeakpan/Divvy",
-      "description": "Programmable token splits on starknet",
-      "summary": "Programmable token splits on starknet",
-      "stars": 0,
-      "created_at": "2026-04-05",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/189696786?v=4",
-      "match_sources": [
-        "repo_wide"
-      ]
-    },
-    {
-      "full_name": "shuhaib90/starkhub",
-      "url": "https://github.com/shuhaib90/starkhub",
-      "description": "",
-      "summary": "**StarkHub** is a high-fidelity, non-custodial decentralized platform that converges **P2P encrypted messag...",
-      "stars": 1,
-      "created_at": "2026-04-13",
-      "first_seen_at": "2026-08-03",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/210969774?v=4",
-      "match_sources": [
-        "readme",
-        "repo_wide"
+        "js_code",
+        "json_files",
+        "markdown_files",
+        "repo_wide",
+        "ts_code"
       ]
     }
   ],
@@ -2856,6 +2680,14 @@
       ]
     },
     {
+      "login": "dhanushonchain",
+      "url": "https://github.com/dhanushonchain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
+      "sources": [
+        "repo_owner"
+      ]
+    },
+    {
       "login": "dngbuilds",
       "url": "https://github.com/dngbuilds",
       "avatar_url": "https://avatars.githubusercontent.com/u/262708876?v=4",
@@ -3141,6 +2973,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "l-henri",
+      "url": "https://github.com/l-henri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22731646?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

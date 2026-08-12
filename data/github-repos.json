@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T06:42:18Z",
+  "updated": "2026-08-12T07:02:39Z",
   "total": 146,
   "repos": [
     {
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8088,
+      "stars": 8087,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",

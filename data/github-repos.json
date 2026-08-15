@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T07:02:47Z",
-  "total": 146,
+  "updated": "2026-08-15T06:16:03Z",
+  "total": 149,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -2177,7 +2177,8 @@
       "first_seen_at": "2026-07-06",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
       "match_sources": [
-        "json_files"
+        "json_files",
+        "repo_wide"
       ]
     },
     {
@@ -2290,6 +2291,45 @@
       "match_sources": [
         "markdown_files",
         "repo_wide"
+      ]
+    },
+    {
+      "full_name": "broody/stake-wars",
+      "url": "https://github.com/broody/stake-wars",
+      "description": "",
+      "summary": "StakeWars is a persistent, non-custodial strategy game built around Starknet",
+      "stars": 0,
+      "created_at": "2025-11-23",
+      "first_seen_at": "2026-08-15",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/610224?v=4",
+      "match_sources": [
+        "markdown_files"
+      ]
+    },
+    {
+      "full_name": "Some1Uknow/cipherpay-strk20",
+      "url": "https://github.com/Some1Uknow/cipherpay-strk20",
+      "description": "",
+      "summary": "CipherPay is a staged Starknet payroll-disbursement application. Phase 1 provides a real interactive STRK20...",
+      "stars": 0,
+      "created_at": "2026-07-28",
+      "first_seen_at": "2026-08-15",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/130275024?v=4",
+      "match_sources": [
+        "markdown_files"
+      ]
+    },
+    {
+      "full_name": "Techkeyy/lens",
+      "url": "https://github.com/Techkeyy/lens",
+      "description": "See what a STRK20 action still reveals, then take a quieter path",
+      "summary": "See what a STRK20 action still reveals, then take a quieter path",
+      "stars": 0,
+      "created_at": "2026-08-14",
+      "first_seen_at": "2026-08-15",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/169851342?v=4",
+      "match_sources": [
+        "markdown_files"
       ]
     }
   ],
@@ -2561,6 +2601,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/138224287?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "broody",
+      "url": "https://github.com/broody",
+      "avatar_url": "https://avatars.githubusercontent.com/u/610224?v=4",
+      "sources": [
         "repo_owner"
       ]
     },
@@ -3389,6 +3437,14 @@
       ]
     },
     {
+      "login": "Some1Uknow",
+      "url": "https://github.com/Some1Uknow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130275024?v=4",
+      "sources": [
+        "repo_owner"
+      ]
+    },
+    {
       "login": "starkience",
       "url": "https://github.com/starkience",
       "avatar_url": "https://avatars.githubusercontent.com/u/129275548?v=4",
@@ -3431,6 +3487,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "Techkeyy",
+      "url": "https://github.com/Techkeyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169851342?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T06:16:03Z",
-  "total": 149,
+  "updated": "2026-08-16T06:18:06Z",
+  "total": 150,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -2172,7 +2172,7 @@
       "url": "https://github.com/reclear-io/llmref",
       "description": "Open, versioned documentation and semantic search for AI coding tools",
       "summary": "Open, versioned documentation and semantic search for AI coding tools",
-      "stars": 2,
+      "stars": 3,
       "created_at": "2026-05-29",
       "first_seen_at": "2026-07-06",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
@@ -2330,6 +2330,20 @@
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/169851342?v=4",
       "match_sources": [
         "markdown_files"
+      ]
+    },
+    {
+      "full_name": "avinashh10x/newPortfolio",
+      "url": "https://github.com/avinashh10x/newPortfolio",
+      "description": "",
+      "summary": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/do...",
+      "stars": 0,
+      "created_at": "2026-01-14",
+      "first_seen_at": "2026-08-16",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/116658044?v=4",
+      "match_sources": [
+        "repo_wide",
+        "ts_code"
       ]
     }
   ],
@@ -2609,6 +2623,7 @@
       "url": "https://github.com/broody",
       "avatar_url": "https://avatars.githubusercontent.com/u/610224?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3441,6 +3456,7 @@
       "url": "https://github.com/Some1Uknow",
       "avatar_url": "https://avatars.githubusercontent.com/u/130275024?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3495,6 +3511,7 @@
       "url": "https://github.com/Techkeyy",
       "avatar_url": "https://avatars.githubusercontent.com/u/169851342?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T06:21:10Z",
-  "total": 152,
+  "updated": "2026-08-20T06:22:08Z",
+  "total": 153,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -1584,7 +1584,7 @@
       "url": "https://github.com/sudosubin/nix-skills",
       "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
       "summary": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-      "stars": 11,
+      "stars": 12,
       "created_at": "2026-02-04",
       "first_seen_at": "2026-05-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
@@ -2371,6 +2371,19 @@
       "match_sources": [
         "markdown_files"
       ]
+    },
+    {
+      "full_name": "krol4ixa85/STRK_Engine",
+      "url": "https://github.com/krol4ixa85/STRK_Engine",
+      "description": "",
+      "summary": "Starkzap mention found in repository files.",
+      "stars": 0,
+      "created_at": "2026-08-06",
+      "first_seen_at": "2026-08-20",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/284291192?v=4",
+      "match_sources": [
+        "json_files"
+      ]
     }
   ],
   "builders": [
@@ -3060,6 +3073,14 @@
       ]
     },
     {
+      "login": "krol4ixa85",
+      "url": "https://github.com/krol4ixa85",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284291192?v=4",
+      "sources": [
+        "repo_owner"
+      ]
+    },
+    {
       "login": "kunal-drall",
       "url": "https://github.com/kunal-drall",
       "avatar_url": "https://avatars.githubusercontent.com/u/114742110?v=4",
@@ -3074,7 +3095,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22731646?v=4",
       "sources": [
         "previous_scan",
-        "repo_owner"
+        "repo_owner",
+        "starkzap_core_contributors"
       ]
     },
     {

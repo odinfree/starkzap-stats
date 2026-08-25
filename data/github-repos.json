@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T06:31:27Z",
-  "total": 154,
+  "updated": "2026-08-25T06:22:34Z",
+  "total": 156,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -949,7 +949,7 @@
       "full_name": "Iam-jayant/zkreview-starknet",
       "url": "https://github.com/Iam-jayant/zkreview-starknet",
       "description": "",
-      "summary": "Decentralized review platform: verified buyers earn crypto bounties for honest reviews; brands pay only for...",
+      "summary": "Starkzap mention found in repository files.",
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-04-08",
@@ -2172,7 +2172,7 @@
       "url": "https://github.com/reclear-io/llmref",
       "description": "Open, versioned documentation and semantic search for AI coding tools",
       "summary": "Open, versioned documentation and semantic search for AI coding tools",
-      "stars": 6,
+      "stars": 7,
       "created_at": "2026-05-29",
       "first_seen_at": "2026-07-06",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
@@ -2303,7 +2303,8 @@
       "first_seen_at": "2026-08-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/610224?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -2316,7 +2317,8 @@
       "first_seen_at": "2026-08-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/130275024?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -2329,7 +2331,8 @@
       "first_seen_at": "2026-08-15",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/169851342?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -2356,7 +2359,8 @@
       "first_seen_at": "2026-08-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101372852?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -2369,7 +2373,8 @@
       "first_seen_at": "2026-08-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/74355410?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -2399,6 +2404,36 @@
         "markdown_files",
         "readme",
         "repo_wide"
+      ]
+    },
+    {
+      "full_name": "manojkgorle/zaparena",
+      "url": "https://github.com/manojkgorle/zaparena",
+      "description": "",
+      "summary": "Social wager gaming platform on Starknet. Challenge players to Coin Flip, Rock Paper Scissors, and Price Pr...",
+      "stars": 0,
+      "created_at": "2026-03-14",
+      "first_seen_at": "2026-08-25",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/65953961?v=4",
+      "match_sources": [
+        "json_files",
+        "markdown_files",
+        "readme",
+        "repo_wide",
+        "ts_code"
+      ]
+    },
+    {
+      "full_name": "git-guuud/strksub",
+      "url": "https://github.com/git-guuud/strksub",
+      "description": "Strk20 hackathon subscription system",
+      "summary": "Strk20 hackathon subscription system",
+      "stars": 0,
+      "created_at": "2026-08-24",
+      "first_seen_at": "2026-08-25",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/171431736?v=4",
+      "match_sources": [
+        "markdown_files"
       ]
     }
   ],
@@ -2923,6 +2958,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/60741154?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "git-guuud",
+      "url": "https://github.com/git-guuud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171431736?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

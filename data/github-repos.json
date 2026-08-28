@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T16:57:03Z",
-  "total": 157,
+  "updated": "2026-08-28T17:46:57Z",
+  "total": 159,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -435,7 +435,7 @@
       "full_name": "dhanushonchain/zklend",
       "url": "https://github.com/dhanushonchain/zklend",
       "description": "",
-      "summary": "> Borrow without overcollateralizing. Prove your income range with ZK. No wallet. No gas. No collateral.",
+      "summary": "Starkzap mention found in repository files.",
       "stars": 0,
       "created_at": "2026-03-15",
       "first_seen_at": "2026-03-16",
@@ -2445,6 +2445,33 @@
       "match_sources": [
         "markdown_files"
       ]
+    },
+    {
+      "full_name": "Iziedking/VeilAP",
+      "url": "https://github.com/Iziedking/VeilAP",
+      "description": "Private proof-backed settlement for sensitive work. VeilAP tests delivery checkpoints from any repository and connects human-approved results to private STRK20 payments on Starknet.",
+      "summary": "Private proof-backed settlement for sensitive work. VeilAP tests delivery checkpoints from any repository a...",
+      "stars": 0,
+      "created_at": "2026-08-27",
+      "first_seen_at": "2026-08-28",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/128899752?v=4",
+      "match_sources": [
+        "markdown_files"
+      ]
+    },
+    {
+      "full_name": "debojyoti10CC/midzap",
+      "url": "https://github.com/debojyoti10CC/midzap",
+      "description": "",
+      "summary": "**Add real, Midnight-powered zero-knowledge privacy to an existing web2 app in minutes \u2014 not months.**",
+      "stars": 0,
+      "created_at": "2026-08-28",
+      "first_seen_at": "2026-08-28",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/181591356?v=4",
+      "match_sources": [
+        "markdown_files",
+        "readme"
+      ]
     }
   ],
   "builders": [
@@ -3080,6 +3107,14 @@
       ]
     },
     {
+      "login": "Iziedking",
+      "url": "https://github.com/Iziedking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128899752?v=4",
+      "sources": [
+        "repo_owner"
+      ]
+    },
+    {
       "login": "JayWebtech",
       "url": "https://github.com/JayWebtech",
       "avatar_url": "https://avatars.githubusercontent.com/u/45628811?v=4",
@@ -3120,6 +3155,7 @@
       "url": "https://github.com/kamalbuilds",
       "avatar_url": "https://avatars.githubusercontent.com/u/95926324?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },
@@ -3647,6 +3683,7 @@
       "url": "https://github.com/Stella112",
       "avatar_url": "https://avatars.githubusercontent.com/u/78382612?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },

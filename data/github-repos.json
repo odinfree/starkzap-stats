@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T17:46:57Z",
-  "total": 159,
+  "updated": "2026-08-29T11:51:34Z",
+  "total": 161,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -435,7 +435,7 @@
       "full_name": "dhanushonchain/zklend",
       "url": "https://github.com/dhanushonchain/zklend",
       "description": "",
-      "summary": "Starkzap mention found in repository files.",
+      "summary": "> Borrow without overcollateralizing. Prove your income range with ZK. No wallet. No gas. No collateral.",
       "stars": 0,
       "created_at": "2026-03-15",
       "first_seen_at": "2026-03-16",
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8093,
+      "stars": 8094,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2006,7 +2006,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 738,
+      "stars": 739,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
@@ -2417,7 +2417,8 @@
       "first_seen_at": "2026-08-25",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/171431736?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
@@ -2443,27 +2444,29 @@
       "first_seen_at": "2026-08-27",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/78382612?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
       "full_name": "Iziedking/VeilAP",
       "url": "https://github.com/Iziedking/VeilAP",
-      "description": "Private proof-backed settlement for sensitive work. VeilAP tests delivery checkpoints from any repository and connects human-approved results to private STRK20 payments on Starknet.",
-      "summary": "Private proof-backed settlement for sensitive work. VeilAP tests delivery checkpoints from any repository a...",
+      "description": "Sealed AI-agent poker arena on Starknet. Strategies stay private, results are verifiable, and winners settle through STRK20.",
+      "summary": "Sealed AI-agent poker arena on Starknet. Strategies stay private, results are verifiable, and winners settl...",
       "stars": 0,
       "created_at": "2026-08-27",
       "first_seen_at": "2026-08-28",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/128899752?v=4",
       "match_sources": [
-        "markdown_files"
+        "markdown_files",
+        "repo_wide"
       ]
     },
     {
       "full_name": "debojyoti10CC/midzap",
       "url": "https://github.com/debojyoti10CC/midzap",
       "description": "",
-      "summary": "**Add real, Midnight-powered zero-knowledge privacy to an existing web2 app in minutes \u2014 not months.**",
+      "summary": "<div align=\"center\">",
       "stars": 0,
       "created_at": "2026-08-28",
       "first_seen_at": "2026-08-28",
@@ -2471,6 +2474,33 @@
       "match_sources": [
         "markdown_files",
         "readme"
+      ]
+    },
+    {
+      "full_name": "keep-starknet-strange/starknet-agentic",
+      "url": "https://github.com/keep-starknet-strange/starknet-agentic",
+      "description": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
+      "summary": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
+      "stars": 80,
+      "created_at": "2026-01-31",
+      "first_seen_at": "2026-08-29",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
+      "match_sources": [
+        "repo_wide",
+        "yaml_files"
+      ]
+    },
+    {
+      "full_name": "fearmexxx/starkfleet-submission",
+      "url": "https://github.com/fearmexxx/starkfleet-submission",
+      "description": "*Privacy-Preserving Turn-Based Battleship on Starknet",
+      "summary": "*Privacy-Preserving Turn-Based Battleship on Starknet",
+      "stars": 0,
+      "created_at": "2026-02-26",
+      "first_seen_at": "2026-08-29",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
+      "match_sources": [
+        "awesome_starkzap_curated"
       ]
     }
   ],
@@ -3111,6 +3141,7 @@
       "url": "https://github.com/Iziedking",
       "avatar_url": "https://avatars.githubusercontent.com/u/128899752?v=4",
       "sources": [
+        "previous_scan",
         "repo_owner"
       ]
     },

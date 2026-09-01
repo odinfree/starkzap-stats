@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T11:58:24Z",
-  "total": 163,
+  "updated": "2026-09-01T10:37:20Z",
+  "total": 162,
   "repos": [
     {
       "full_name": "keep-starknet-strange/alexandria",
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8096,
+      "stars": 8095,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2477,33 +2477,6 @@
       ]
     },
     {
-      "full_name": "keep-starknet-strange/starknet-agentic",
-      "url": "https://github.com/keep-starknet-strange/starknet-agentic",
-      "description": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
-      "summary": "Smart contracts, tools, and skills for AI agents that transact on Starknet",
-      "stars": 80,
-      "created_at": "2026-01-31",
-      "first_seen_at": "2026-08-29",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
-      "match_sources": [
-        "repo_wide",
-        "yaml_files"
-      ]
-    },
-    {
-      "full_name": "fearmexxx/starkfleet-submission",
-      "url": "https://github.com/fearmexxx/starkfleet-submission",
-      "description": "*Privacy-Preserving Turn-Based Battleship on Starknet",
-      "summary": "*Privacy-Preserving Turn-Based Battleship on Starknet",
-      "stars": 0,
-      "created_at": "2026-02-26",
-      "first_seen_at": "2026-08-29",
-      "owner_avatar_url": "https://avatars.githubusercontent.com/u/89799857?v=4",
-      "match_sources": [
-        "awesome_starkzap_curated"
-      ]
-    },
-    {
       "full_name": "ayush4345/strkret",
       "url": "https://github.com/ayush4345/strkret",
       "description": "Confidential, metered pay-per-use commerce between autonomous agents, settled privately on Starknet via STRK20.",
@@ -2529,6 +2502,19 @@
       "match_sources": [
         "markdown_files",
         "repo_wide"
+      ]
+    },
+    {
+      "full_name": "TanishaSangwan/zkpoker",
+      "url": "https://github.com/TanishaSangwan/zkpoker",
+      "description": "",
+      "summary": "Hackathon entry for https://strk20.starknet.io/hackathon, answering the",
+      "stars": 1,
+      "created_at": "2026-08-30",
+      "first_seen_at": "2026-09-01",
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/90506069?v=4",
+      "match_sources": [
+        "markdown_files"
       ]
     }
   ],
@@ -3761,6 +3747,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
       "sources": [
         "previous_scan",
+        "repo_owner"
+      ]
+    },
+    {
+      "login": "TanishaSangwan",
+      "url": "https://github.com/TanishaSangwan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90506069?v=4",
+      "sources": [
         "repo_owner"
       ]
     },

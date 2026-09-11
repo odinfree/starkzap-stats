@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T10:08:21Z",
+  "updated": "2026-09-11T10:05:39Z",
   "total": 185,
   "repos": [
     {
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8098,
+      "stars": 8099,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
@@ -2172,7 +2172,7 @@
       "url": "https://github.com/reclear-io/llmref",
       "description": "Open, versioned documentation and semantic search for AI coding tools",
       "summary": "Open, versioned documentation and semantic search for AI coding tools",
-      "stars": 8,
+      "stars": 9,
       "created_at": "2026-05-29",
       "first_seen_at": "2026-07-06",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",

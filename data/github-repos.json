@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:34:15Z",
+  "updated": "2026-09-16T10:22:53Z",
   "total": 172,
   "repos": [
     {
@@ -2007,7 +2007,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 742,
+      "stars": 741,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
@@ -4158,6 +4158,14 @@
       "sources": [
         "awesome_starkzap_contributors",
         "previous_scan",
+        "starkzap_core_contributors"
+      ]
+    },
+    {
+      "login": "zakazaka95",
+      "url": "https://github.com/zakazaka95",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21070759?v=4",
+      "sources": [
         "starkzap_core_contributors"
       ]
     },

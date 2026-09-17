@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:22:53Z",
+  "updated": "2026-09-17T10:32:18Z",
   "total": 172,
   "repos": [
     {
@@ -820,13 +820,16 @@
       "full_name": "0xshikhar/hyperx-terminal",
       "url": "https://github.com/0xshikhar/hyperx-terminal",
       "description": "",
-      "summary": "<strong>Professional Perpetual Futures Trading on Starknet</strong>",
+      "summary": "<strong>High-Performance Perpetual Futures Trading Terminal for Starknet</strong>",
       "stars": 0,
       "created_at": "2026-02-23",
       "first_seen_at": "2026-04-03",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/64684053?v=4",
       "match_sources": [
+        "docs_path",
         "json_files",
+        "markdown_files",
+        "readme",
         "repo_wide",
         "ts_code",
         "yaml_files"
@@ -932,9 +935,9 @@
     {
       "full_name": "The-Engineer-Network/engipay",
       "url": "https://github.com/The-Engineer-Network/engipay",
-      "description": "EngiPay is the Venmo of Web3 - but better. We make DeFi as simple as traditional banking while adding privacy, cross-chain capabilities, and earning opportunities. Send payments, swap Bitcoin, earn yield, all in one beautiful app",
-      "summary": "EngiPay is the Venmo of Web3 - but better. We make DeFi as simple as traditional banking while adding priva...",
-      "stars": 4,
+      "description": "Pay and get paid in crypto from Nigeria. Scan a code to pay, send to any wallet, and move between crypto and Naira, on Stellar, Base and Bitcoin.",
+      "summary": "Pay and get paid in crypto from Nigeria. Scan a code to pay, send to any wallet, and move between crypto an...",
+      "stars": 2,
       "created_at": "2025-09-20",
       "first_seen_at": "2026-04-08",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/232935429?v=4",
@@ -2007,7 +2010,7 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 741,
+      "stars": 743,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
@@ -2173,7 +2176,7 @@
       "url": "https://github.com/reclear-io/llmref",
       "description": "Open, versioned documentation and semantic search for AI coding tools",
       "summary": "Open, versioned documentation and semantic search for AI coding tools",
-      "stars": 9,
+      "stars": 10,
       "created_at": "2026-05-29",
       "first_seen_at": "2026-07-06",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
@@ -4166,6 +4169,7 @@
       "url": "https://github.com/zakazaka95",
       "avatar_url": "https://avatars.githubusercontent.com/u/21070759?v=4",
       "sources": [
+        "previous_scan",
         "starkzap_core_contributors"
       ]
     },

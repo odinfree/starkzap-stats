@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:14:28Z",
+  "updated": "2026-09-22T10:26:31Z",
   "total": 172,
   "funnel": {
     "repos_with_package_dependency": 0,
@@ -22,7 +22,7 @@
       "stars": 264,
       "created_at": "2022-11-25",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
       "match_sources": [
         "starkzap_repo_curated"
@@ -39,7 +39,7 @@
       "stars": 0,
       "created_at": "2026-02-09",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101935656?v=4",
       "match_sources": [
         "docs_path",
@@ -61,7 +61,7 @@
       "stars": 0,
       "created_at": "2026-02-18",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/107465625?v=4",
       "match_sources": [
         "awesome_starkzap_curated"
@@ -78,7 +78,7 @@
       "stars": 0,
       "created_at": "2026-02-19",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/66639153?v=4",
       "match_sources": [
         "starkzap_repo_curated"
@@ -95,7 +95,7 @@
       "stars": 51,
       "created_at": "2026-02-19",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118723009?v=4",
       "match_sources": [
         "json_files",
@@ -116,7 +116,7 @@
       "stars": 3,
       "created_at": "2026-02-19",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/129275548?v=4",
       "match_sources": [
         "awesome_starkzap_curated",
@@ -140,7 +140,7 @@
       "stars": 1,
       "created_at": "2026-02-22",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/66639153?v=4",
       "match_sources": [
         "awesome_starkzap_curated",
@@ -164,7 +164,7 @@
       "stars": 1,
       "created_at": "2026-02-25",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/153971735?v=4",
       "match_sources": [
         "awesome_starkzap_curated"
@@ -181,7 +181,7 @@
       "stars": 0,
       "created_at": "2026-02-26",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/153971735?v=4",
       "match_sources": [
         "awesome_starkzap_curated",
@@ -201,7 +201,7 @@
       "stars": 0,
       "created_at": "2026-02-26",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/88471927?v=4",
       "match_sources": [
         "awesome_starkzap_curated",
@@ -223,7 +223,7 @@
       "stars": 1,
       "created_at": "2026-03-01",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/108066377?v=4",
       "match_sources": [
         "awesome_starkzap_curated",
@@ -245,7 +245,7 @@
       "stars": 2,
       "created_at": "2026-03-03",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/118909117?v=4",
       "match_sources": [
         "json_files",
@@ -266,7 +266,7 @@
       "stars": 0,
       "created_at": "2026-03-04",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/60871378?v=4",
       "match_sources": [
         "docs_path",
@@ -288,7 +288,7 @@
       "stars": 0,
       "created_at": "2026-03-06",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/35747672?v=4",
       "match_sources": [
         "docs_path",
@@ -311,7 +311,7 @@
       "stars": 0,
       "created_at": "2026-03-06",
       "first_seen_at": "2026-03-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/35747672?v=4",
       "match_sources": [
         "docs_path",
@@ -334,7 +334,7 @@
       "stars": 0,
       "created_at": "2026-03-03",
       "first_seen_at": "2026-03-09",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/125856537?v=4",
       "match_sources": [
         "json_files",
@@ -356,7 +356,7 @@
       "stars": 1,
       "created_at": "2025-10-15",
       "first_seen_at": "2026-03-10",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/44295455?v=4",
       "match_sources": [
         "docs_path",
@@ -379,7 +379,7 @@
       "stars": 2,
       "created_at": "2026-02-27",
       "first_seen_at": "2026-03-14",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/70810472?v=4",
       "match_sources": [
         "docs_path",
@@ -403,7 +403,7 @@
       "stars": 0,
       "created_at": "2026-03-03",
       "first_seen_at": "2026-03-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/265169796?v=4",
       "match_sources": [
         "json_files",
@@ -423,7 +423,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-03-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/138224287?v=4",
       "match_sources": [
         "json_files",
@@ -444,7 +444,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-03-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/158586547?v=4",
       "match_sources": [
         "js_code",
@@ -466,7 +466,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-03-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181591356?v=4",
       "match_sources": [
         "json_files",
@@ -486,7 +486,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-03-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/72229933?v=4",
       "match_sources": [
         "docs_path",
@@ -508,7 +508,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-03-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/103949787?v=4",
       "match_sources": [
         "js_code",
@@ -530,7 +530,7 @@
       "stars": 0,
       "created_at": "2026-03-15",
       "first_seen_at": "2026-03-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/117998690?v=4",
       "match_sources": [
         "json_files",
@@ -551,7 +551,7 @@
       "stars": 0,
       "created_at": "2026-03-15",
       "first_seen_at": "2026-03-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
       "match_sources": [
         "json_files",
@@ -572,7 +572,7 @@
       "stars": 1,
       "created_at": "2026-03-15",
       "first_seen_at": "2026-03-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
       "match_sources": [
         "js_code",
@@ -594,7 +594,7 @@
       "stars": 0,
       "created_at": "2026-03-15",
       "first_seen_at": "2026-03-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/182225075?v=4",
       "match_sources": [
         "js_code",
@@ -615,7 +615,7 @@
       "stars": 0,
       "created_at": "2026-03-15",
       "first_seen_at": "2026-03-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/69042752?v=4",
       "match_sources": [
         "docs_path",
@@ -637,7 +637,7 @@
       "stars": 0,
       "created_at": "2026-03-16",
       "first_seen_at": "2026-03-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/190931130?v=4",
       "match_sources": [
         "json_files",
@@ -658,7 +658,7 @@
       "stars": 0,
       "created_at": "2026-03-17",
       "first_seen_at": "2026-03-17",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/145766997?v=4",
       "match_sources": [
         "js_code",
@@ -679,7 +679,7 @@
       "stars": 0,
       "created_at": "2026-03-17",
       "first_seen_at": "2026-03-18",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/69008866?v=4",
       "match_sources": [
         "json_files",
@@ -700,7 +700,7 @@
       "stars": 0,
       "created_at": "2026-02-21",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/197254481?v=4",
       "match_sources": [
         "json_files",
@@ -721,7 +721,7 @@
       "stars": 0,
       "created_at": "2026-03-04",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/63858042?v=4",
       "match_sources": [
         "json_files",
@@ -741,7 +741,7 @@
       "stars": 0,
       "created_at": "2026-03-09",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/63858042?v=4",
       "match_sources": [
         "json_files",
@@ -762,7 +762,7 @@
       "stars": 0,
       "created_at": "2026-03-10",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/71656941?v=4",
       "match_sources": [
         "json_files",
@@ -783,7 +783,7 @@
       "stars": 0,
       "created_at": "2026-03-10",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/17774285?v=4",
       "match_sources": [
         "json_files",
@@ -804,7 +804,7 @@
       "stars": 0,
       "created_at": "2026-03-11",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/78260126?v=4",
       "match_sources": [
         "json_files",
@@ -825,7 +825,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/248224014?v=4",
       "match_sources": [
         "json_files",
@@ -846,7 +846,7 @@
       "stars": 0,
       "created_at": "2026-03-16",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/259690482?v=4",
       "match_sources": [
         "json_files",
@@ -867,7 +867,7 @@
       "stars": 1,
       "created_at": "2026-03-17",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/92907147?v=4",
       "match_sources": [
         "js_code",
@@ -888,7 +888,7 @@
       "stars": 0,
       "created_at": "2026-03-17",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/86930056?v=4",
       "match_sources": [
         "json_files",
@@ -908,7 +908,7 @@
       "stars": 0,
       "created_at": "2026-03-17",
       "first_seen_at": "2026-03-19",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/117444846?v=4",
       "match_sources": [
         "json_files",
@@ -929,7 +929,7 @@
       "stars": 0,
       "created_at": "2026-03-28",
       "first_seen_at": "2026-03-30",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/52698157?v=4",
       "match_sources": [
         "js_code",
@@ -950,7 +950,7 @@
       "stars": 0,
       "created_at": "2026-03-31",
       "first_seen_at": "2026-04-01",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/50258860?v=4",
       "match_sources": [
         "json_files",
@@ -971,7 +971,7 @@
       "stars": 181,
       "created_at": "2022-01-24",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/104390117?v=4",
       "match_sources": [
         "json_files",
@@ -979,7 +979,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-21"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "mediolano-os/mediolano-app",
@@ -989,7 +989,7 @@
       "stars": 15,
       "created_at": "2024-11-15",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181981249?v=4",
       "match_sources": [
         "json_files",
@@ -1009,7 +1009,7 @@
       "stars": 0,
       "created_at": "2026-02-06",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/69008866?v=4",
       "match_sources": [
         "json_files",
@@ -1028,7 +1028,7 @@
       "stars": 0,
       "created_at": "2026-02-23",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/64684053?v=4",
       "match_sources": [
         "docs_path",
@@ -1051,7 +1051,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/114085760?v=4",
       "match_sources": [
         "json_files",
@@ -1071,7 +1071,7 @@
       "stars": 0,
       "created_at": "2026-03-27",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/96793918?v=4",
       "match_sources": [
         "json_files",
@@ -1090,7 +1090,7 @@
       "stars": 0,
       "created_at": "2026-03-29",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/262708876?v=4",
       "match_sources": [
         "json_files",
@@ -1110,7 +1110,7 @@
       "stars": 0,
       "created_at": "2026-04-02",
       "first_seen_at": "2026-04-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/7941762?v=4",
       "match_sources": [
         "json_files",
@@ -1131,7 +1131,7 @@
       "stars": 0,
       "created_at": "2026-04-05",
       "first_seen_at": "2026-04-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/191975780?v=4",
       "match_sources": [
         "js_code",
@@ -1150,7 +1150,7 @@
       "stars": 0,
       "created_at": "2026-04-06",
       "first_seen_at": "2026-04-07",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/82191216?v=4",
       "match_sources": [
         "js_code",
@@ -1172,7 +1172,7 @@
       "stars": 3,
       "created_at": "2025-09-20",
       "first_seen_at": "2026-04-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/232935429?v=4",
       "match_sources": [
         "js_code",
@@ -1192,7 +1192,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-04-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/145249749?v=4",
       "match_sources": [
         "markdown_files",
@@ -1211,7 +1211,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-04-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/147421609?v=4",
       "match_sources": [
         "markdown_files",
@@ -1230,7 +1230,7 @@
       "stars": 0,
       "created_at": "2026-04-05",
       "first_seen_at": "2026-04-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/260130638?v=4",
       "match_sources": [
         "markdown_files",
@@ -1249,7 +1249,7 @@
       "stars": 0,
       "created_at": "2026-04-07",
       "first_seen_at": "2026-04-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/135211789?v=4",
       "match_sources": [
         "json_files",
@@ -1270,7 +1270,7 @@
       "stars": 0,
       "created_at": "2026-03-06",
       "first_seen_at": "2026-04-09",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101340153?v=4",
       "match_sources": [
         "js_code",
@@ -1289,7 +1289,7 @@
       "stars": 0,
       "created_at": "2026-04-09",
       "first_seen_at": "2026-04-10",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/64710698?v=4",
       "match_sources": [
         "json_files",
@@ -1310,7 +1310,7 @@
       "stars": 0,
       "created_at": "2026-04-06",
       "first_seen_at": "2026-04-14",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/263628812?v=4",
       "match_sources": [
         "docs_path",
@@ -1332,7 +1332,7 @@
       "stars": 0,
       "created_at": "2026-04-13",
       "first_seen_at": "2026-04-14",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "match_sources": [
         "json_files",
@@ -1353,7 +1353,7 @@
       "stars": 0,
       "created_at": "2026-04-13",
       "first_seen_at": "2026-04-14",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "match_sources": [
         "json_files",
@@ -1374,7 +1374,7 @@
       "stars": 0,
       "created_at": "2026-04-13",
       "first_seen_at": "2026-04-14",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "match_sources": [
         "json_files",
@@ -1395,7 +1395,7 @@
       "stars": 1,
       "created_at": "2026-04-14",
       "first_seen_at": "2026-04-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/64996976?v=4",
       "match_sources": [
         "json_files",
@@ -1416,7 +1416,7 @@
       "stars": 0,
       "created_at": "2026-04-19",
       "first_seen_at": "2026-04-20",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/126802444?v=4",
       "match_sources": [
         "json_files",
@@ -1437,7 +1437,7 @@
       "stars": 0,
       "created_at": "2026-04-19",
       "first_seen_at": "2026-04-20",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/126802444?v=4",
       "match_sources": [
         "js_code",
@@ -1458,7 +1458,7 @@
       "stars": 0,
       "created_at": "2026-04-15",
       "first_seen_at": "2026-04-22",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/140399852?v=4",
       "match_sources": [
         "js_code",
@@ -1479,7 +1479,7 @@
       "stars": 2,
       "created_at": "2026-04-21",
       "first_seen_at": "2026-04-22",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/100224975?v=4",
       "match_sources": [
         "js_code",
@@ -1501,7 +1501,7 @@
       "stars": 0,
       "created_at": "2026-04-21",
       "first_seen_at": "2026-04-22",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/169094533?v=4",
       "match_sources": [
         "json_files",
@@ -1522,7 +1522,7 @@
       "stars": 0,
       "created_at": "2026-03-28",
       "first_seen_at": "2026-04-25",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/99805785?v=4",
       "match_sources": [
         "json_files",
@@ -1543,7 +1543,7 @@
       "stars": 1,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-04-29",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/66639153?v=4",
       "match_sources": [
         "markdown_files",
@@ -1563,7 +1563,7 @@
       "stars": 0,
       "created_at": "2026-02-03",
       "first_seen_at": "2026-04-30",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/71751336?v=4",
       "match_sources": [
         "js_code",
@@ -1585,7 +1585,7 @@
       "stars": 0,
       "created_at": "2025-01-14",
       "first_seen_at": "2026-05-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/194384020?v=4",
       "match_sources": [
         "json_files",
@@ -1604,7 +1604,7 @@
       "stars": 2,
       "created_at": "2025-10-17",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/111903096?v=4",
       "match_sources": [
         "json_files",
@@ -1623,7 +1623,7 @@
       "stars": 1,
       "created_at": "2025-11-22",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/18496928?v=4",
       "match_sources": [
         "json_files",
@@ -1642,7 +1642,7 @@
       "stars": 0,
       "created_at": "2026-01-04",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/110780399?v=4",
       "match_sources": [
         "json_files",
@@ -1650,7 +1650,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-21"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "Obsqra-Labs/zkdefi",
@@ -1660,7 +1660,7 @@
       "stars": 2,
       "created_at": "2026-01-30",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/247914483?v=4",
       "match_sources": [
         "json_files",
@@ -1679,7 +1679,7 @@
       "stars": 0,
       "created_at": "2026-03-06",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/45628811?v=4",
       "match_sources": [
         "json_files",
@@ -1697,7 +1697,7 @@
       "stars": 0,
       "created_at": "2026-03-21",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/67532224?v=4",
       "match_sources": [
         "json_files",
@@ -1715,7 +1715,7 @@
       "stars": 0,
       "created_at": "2026-04-15",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/169094533?v=4",
       "match_sources": [
         "json_files",
@@ -1734,7 +1734,7 @@
       "stars": 0,
       "created_at": "2026-04-17",
       "first_seen_at": "2026-05-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/75512141?v=4",
       "match_sources": [
         "json_files",
@@ -1752,7 +1752,7 @@
       "stars": 0,
       "created_at": "2026-02-24",
       "first_seen_at": "2026-05-09",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/153971735?v=4",
       "match_sources": [
         "markdown_files",
@@ -1772,7 +1772,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-05-09",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/104635627?v=4",
       "match_sources": [
         "js_code",
@@ -1792,7 +1792,7 @@
       "stars": 0,
       "created_at": "2026-04-02",
       "first_seen_at": "2026-05-09",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181591356?v=4",
       "match_sources": [
         "markdown_files",
@@ -1811,7 +1811,7 @@
       "stars": 0,
       "created_at": "2026-04-03",
       "first_seen_at": "2026-05-09",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/38711713?v=4",
       "match_sources": [
         "docs_path",
@@ -1831,7 +1831,7 @@
       "stars": 17,
       "created_at": "2024-03-08",
       "first_seen_at": "2026-05-11",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/121522969?v=4",
       "match_sources": [
         "markdown_files",
@@ -1849,7 +1849,7 @@
       "stars": 13,
       "created_at": "2025-04-15",
       "first_seen_at": "2026-05-11",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/187839878?v=4",
       "match_sources": [
         "markdown_files",
@@ -1857,7 +1857,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-21"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "coppolajulien/winky-duel",
@@ -1867,7 +1867,7 @@
       "stars": 0,
       "created_at": "2026-03-02",
       "first_seen_at": "2026-05-11",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/3055154?v=4",
       "match_sources": [
         "markdown_files",
@@ -1885,7 +1885,7 @@
       "stars": 0,
       "created_at": "2026-04-14",
       "first_seen_at": "2026-05-11",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/128307596?v=4",
       "match_sources": [
         "repo_wide",
@@ -1903,7 +1903,7 @@
       "stars": 4,
       "created_at": "2026-05-03",
       "first_seen_at": "2026-05-11",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/242862352?v=4",
       "match_sources": [
         "markdown_files",
@@ -1921,7 +1921,7 @@
       "stars": 0,
       "created_at": "2024-11-06",
       "first_seen_at": "2026-05-13",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/187538332?v=4",
       "match_sources": [
         "json_files",
@@ -1939,7 +1939,7 @@
       "stars": 0,
       "created_at": "2026-03-16",
       "first_seen_at": "2026-05-13",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/144029263?v=4",
       "match_sources": [
         "python_code",
@@ -1957,7 +1957,7 @@
       "stars": 0,
       "created_at": "2026-03-11",
       "first_seen_at": "2026-05-14",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/267402889?v=4",
       "match_sources": [
         "repo_wide"
@@ -1974,7 +1974,7 @@
       "stars": 98,
       "created_at": "2023-08-02",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/145079657?v=4",
       "match_sources": [
         "yaml_files"
@@ -1988,10 +1988,10 @@
       "url": "https://github.com/sudosubin/nix-skills",
       "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
       "summary": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-      "stars": 13,
+      "stars": 14,
       "created_at": "2026-02-04",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/32478597?v=4",
       "match_sources": [
         "json_files"
@@ -2008,7 +2008,7 @@
       "stars": 1,
       "created_at": "2026-02-08",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/182732897?v=4",
       "match_sources": [
         "markdown_files"
@@ -2025,7 +2025,7 @@
       "stars": 2,
       "created_at": "2026-02-26",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/74860406?v=4",
       "match_sources": [
         "json_files",
@@ -2033,7 +2033,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-21"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "ayush-ranjan-official/Covenant-CAD",
@@ -2043,7 +2043,7 @@
       "stars": 0,
       "created_at": "2026-03-09",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/93761136?v=4",
       "match_sources": [
         "markdown_files",
@@ -2061,7 +2061,7 @@
       "stars": 0,
       "created_at": "2026-03-13",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/261995388?v=4",
       "match_sources": [
         "json_files",
@@ -2079,7 +2079,7 @@
       "stars": 0,
       "created_at": "2026-03-17",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/167419833?v=4",
       "match_sources": [
         "json_files"
@@ -2096,7 +2096,7 @@
       "stars": 0,
       "created_at": "2026-03-24",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/186802781?v=4",
       "match_sources": [
         "markdown_files",
@@ -2114,7 +2114,7 @@
       "stars": 1,
       "created_at": "2026-04-09",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/212873664?v=4",
       "match_sources": [
         "json_files",
@@ -2132,7 +2132,7 @@
       "stars": 0,
       "created_at": "2026-04-14",
       "first_seen_at": "2026-05-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
       "match_sources": [
         "json_files",
@@ -2150,7 +2150,7 @@
       "stars": 0,
       "created_at": "2025-03-16",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/196496870?v=4",
       "match_sources": [
         "markdown_files",
@@ -2169,7 +2169,7 @@
       "stars": 1,
       "created_at": "2025-11-08",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/153971735?v=4",
       "match_sources": [
         "js_code",
@@ -2187,7 +2187,7 @@
       "stars": 0,
       "created_at": "2026-01-29",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/111384449?v=4",
       "match_sources": [
         "json_files",
@@ -2205,7 +2205,7 @@
       "stars": 2,
       "created_at": "2026-02-18",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/258895906?v=4",
       "match_sources": [
         "repo_wide",
@@ -2213,7 +2213,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-16"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "hoddukzoa12/BTCLP",
@@ -2223,7 +2223,7 @@
       "stars": 0,
       "created_at": "2026-03-01",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/61504598?v=4",
       "match_sources": [
         "json_files",
@@ -2242,7 +2242,7 @@
       "stars": 0,
       "created_at": "2026-03-11",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/60741154?v=4",
       "match_sources": [
         "json_files",
@@ -2261,7 +2261,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/19796784?v=4",
       "match_sources": [
         "repo_wide",
@@ -2279,7 +2279,7 @@
       "stars": 0,
       "created_at": "2026-03-16",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/70810472?v=4",
       "match_sources": [
         "repo_wide",
@@ -2297,7 +2297,7 @@
       "stars": 0,
       "created_at": "2026-03-16",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/95226065?v=4",
       "match_sources": [
         "js_code",
@@ -2319,7 +2319,7 @@
       "stars": 0,
       "created_at": "2026-03-18",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/16284115?v=4",
       "match_sources": [
         "js_code",
@@ -2337,7 +2337,7 @@
       "stars": 7,
       "created_at": "2026-03-18",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/58338510?v=4",
       "match_sources": [
         "docs_path",
@@ -2355,7 +2355,7 @@
       "stars": 1,
       "created_at": "2026-03-21",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/154702154?v=4",
       "match_sources": [
         "json_files",
@@ -2373,7 +2373,7 @@
       "stars": 0,
       "created_at": "2026-03-24",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/96793918?v=4",
       "match_sources": [
         "repo_wide"
@@ -2390,7 +2390,7 @@
       "stars": 1,
       "created_at": "2026-04-03",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/64360653?v=4",
       "match_sources": [
         "js_code",
@@ -2408,7 +2408,7 @@
       "stars": 1,
       "created_at": "2026-04-03",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/212873664?v=4",
       "match_sources": [
         "js_code",
@@ -2426,7 +2426,7 @@
       "stars": 0,
       "created_at": "2026-04-07",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/162972524?v=4",
       "match_sources": [
         "repo_wide"
@@ -2443,7 +2443,7 @@
       "stars": 0,
       "created_at": "2026-04-08",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/242104848?v=4",
       "match_sources": [
         "repo_wide"
@@ -2460,7 +2460,7 @@
       "stars": 0,
       "created_at": "2026-04-18",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/126802444?v=4",
       "match_sources": [
         "repo_wide"
@@ -2477,7 +2477,7 @@
       "stars": 0,
       "created_at": "2026-04-26",
       "first_seen_at": "2026-05-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/128714005?v=4",
       "match_sources": [
         "repo_wide"
@@ -2491,10 +2491,10 @@
       "url": "https://github.com/all-contributors/allcontributors.org",
       "description": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code \u2728",
       "summary": "\u2728 The all-contributors bot website and documentation. Recognize all contributors, not just the ones who pus...",
-      "stars": 8103,
+      "stars": 8102,
       "created_at": "2016-02-28",
       "first_seen_at": "2026-05-18",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
       "match_sources": [
         "starkzap_repo_curated"
@@ -2511,7 +2511,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-05-22",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/69464744?v=4",
       "match_sources": [
         "docs_path",
@@ -2530,17 +2530,17 @@
       "url": "https://github.com/rust-lang/crates.io-index",
       "description": "Registry index for crates.io",
       "summary": "Registry index for crates.io",
-      "stars": 744,
+      "stars": 746,
       "created_at": "2014-11-04",
       "first_seen_at": "2026-05-23",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
       "match_sources": [
         "repo_wide"
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-21"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "Validator-POSTHUMAN/posthuman-source-data",
@@ -2550,7 +2550,7 @@
       "stars": 5,
       "created_at": "2024-03-05",
       "first_seen_at": "2026-05-28",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",
       "match_sources": [
         "markdown_files",
@@ -2568,7 +2568,7 @@
       "stars": 2,
       "created_at": "2026-05-24",
       "first_seen_at": "2026-05-28",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/108546933?v=4",
       "match_sources": [
         "markdown_files",
@@ -2587,7 +2587,7 @@
       "stars": 0,
       "created_at": "2026-05-16",
       "first_seen_at": "2026-05-29",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/12571049?v=4",
       "match_sources": [
         "markdown_files",
@@ -2605,7 +2605,7 @@
       "stars": 25,
       "created_at": "2024-09-30",
       "first_seen_at": "2026-06-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/128634635?v=4",
       "match_sources": [
         "docs_path",
@@ -2617,7 +2617,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-18"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "web3dothan-del/stark-predit",
@@ -2627,7 +2627,7 @@
       "stars": 0,
       "created_at": "2026-04-09",
       "first_seen_at": "2026-06-07",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/260130638?v=4",
       "match_sources": [
         "repo_wide"
@@ -2644,7 +2644,7 @@
       "stars": 0,
       "created_at": "2023-05-19",
       "first_seen_at": "2026-06-10",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101935656?v=4",
       "match_sources": [
         "markdown_files",
@@ -2663,7 +2663,7 @@
       "stars": 2,
       "created_at": "2026-05-27",
       "first_seen_at": "2026-06-14",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/150260202?v=4",
       "match_sources": [
         "markdown_files"
@@ -2680,7 +2680,7 @@
       "stars": 0,
       "created_at": "2026-03-01",
       "first_seen_at": "2026-06-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/116101909?v=4",
       "match_sources": [
         "json_files",
@@ -2701,7 +2701,7 @@
       "stars": 0,
       "created_at": "2026-02-23",
       "first_seen_at": "2026-06-21",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/74209106?v=4",
       "match_sources": [
         "docs_path",
@@ -2722,7 +2722,7 @@
       "stars": 1,
       "created_at": "2026-06-23",
       "first_seen_at": "2026-06-29",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/296154937?v=4",
       "match_sources": [
         "js_code",
@@ -2743,7 +2743,7 @@
       "stars": 10,
       "created_at": "2026-05-29",
       "first_seen_at": "2026-07-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/253330164?v=4",
       "match_sources": [
         "json_files",
@@ -2761,7 +2761,7 @@
       "stars": 0,
       "created_at": "2026-03-22",
       "first_seen_at": "2026-07-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/116658044?v=4",
       "match_sources": [
         "json_files",
@@ -2782,7 +2782,7 @@
       "stars": 0,
       "created_at": "2026-02-18",
       "first_seen_at": "2026-07-12",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101372852?v=4",
       "match_sources": [
         "json_files",
@@ -2803,7 +2803,7 @@
       "stars": 3,
       "created_at": "2026-05-07",
       "first_seen_at": "2026-07-17",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/263369112?v=4",
       "match_sources": [
         "docs_path",
@@ -2822,7 +2822,7 @@
       "stars": 0,
       "created_at": "2026-03-14",
       "first_seen_at": "2026-07-18",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/104738204?v=4",
       "match_sources": [
         "js_code",
@@ -2844,7 +2844,7 @@
       "stars": 3,
       "created_at": "2025-02-05",
       "first_seen_at": "2026-07-31",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/169562550?v=4",
       "match_sources": [
         "markdown_files"
@@ -2861,7 +2861,7 @@
       "stars": 0,
       "created_at": "2025-01-09",
       "first_seen_at": "2026-08-04",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/22731646?v=4",
       "match_sources": [
         "docs_path",
@@ -2883,7 +2883,7 @@
       "stars": 0,
       "created_at": "2026-07-06",
       "first_seen_at": "2026-08-07",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/129275548?v=4",
       "match_sources": [
         "markdown_files",
@@ -2898,10 +2898,10 @@
       "url": "https://github.com/broody/stake-wars",
       "description": "",
       "summary": "Stake Wars is a persistent, non-custodial strategy game that turns Starknet",
-      "stars": 0,
+      "stars": 1,
       "created_at": "2025-11-23",
       "first_seen_at": "2026-08-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/610224?v=4",
       "match_sources": [
         "markdown_files",
@@ -2909,7 +2909,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-21"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "Some1Uknow/cipherpay-strk20",
@@ -2919,7 +2919,7 @@
       "stars": 0,
       "created_at": "2026-07-28",
       "first_seen_at": "2026-08-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/130275024?v=4",
       "match_sources": [
         "markdown_files",
@@ -2937,7 +2937,7 @@
       "stars": 0,
       "created_at": "2026-08-14",
       "first_seen_at": "2026-08-15",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/169851342?v=4",
       "match_sources": [
         "markdown_files",
@@ -2955,7 +2955,7 @@
       "stars": 0,
       "created_at": "2026-01-14",
       "first_seen_at": "2026-08-16",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/116658044?v=4",
       "match_sources": [
         "repo_wide",
@@ -2973,7 +2973,7 @@
       "stars": 0,
       "created_at": "2026-08-14",
       "first_seen_at": "2026-08-18",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101372852?v=4",
       "match_sources": [
         "markdown_files",
@@ -2991,7 +2991,7 @@
       "stars": 0,
       "created_at": "2026-08-15",
       "first_seen_at": "2026-08-18",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/74355410?v=4",
       "match_sources": [
         "docs_path",
@@ -3010,7 +3010,7 @@
       "stars": 0,
       "created_at": "2026-08-06",
       "first_seen_at": "2026-08-20",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/284291192?v=4",
       "match_sources": [
         "json_files"
@@ -3027,7 +3027,7 @@
       "stars": 1,
       "created_at": "2026-04-09",
       "first_seen_at": "2026-08-22",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/273110059?v=4",
       "match_sources": [
         "json_files",
@@ -3037,7 +3037,7 @@
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-20"
+      "pushed_at": "2026-09-22"
     },
     {
       "full_name": "git-guuud/strksub",
@@ -3047,7 +3047,7 @@
       "stars": 0,
       "created_at": "2026-08-24",
       "first_seen_at": "2026-08-25",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/171431736?v=4",
       "match_sources": [
         "markdown_files",
@@ -3065,7 +3065,7 @@
       "stars": 0,
       "created_at": "2026-08-14",
       "first_seen_at": "2026-08-27",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/95926324?v=4",
       "match_sources": [
         "markdown_files",
@@ -3083,7 +3083,7 @@
       "stars": 0,
       "created_at": "2026-08-26",
       "first_seen_at": "2026-08-27",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/78382612?v=4",
       "match_sources": [
         "markdown_files",
@@ -3101,7 +3101,7 @@
       "stars": 0,
       "created_at": "2026-08-27",
       "first_seen_at": "2026-08-28",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/128899752?v=4",
       "match_sources": [
         "markdown_files",
@@ -3119,7 +3119,7 @@
       "stars": 0,
       "created_at": "2026-08-28",
       "first_seen_at": "2026-08-28",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/181591356?v=4",
       "match_sources": [
         "markdown_files",
@@ -3137,7 +3137,7 @@
       "stars": 0,
       "created_at": "2026-08-28",
       "first_seen_at": "2026-08-30",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/99096397?v=4",
       "match_sources": [
         "markdown_files",
@@ -3155,7 +3155,7 @@
       "stars": 0,
       "created_at": "2026-08-30",
       "first_seen_at": "2026-08-30",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101372852?v=4",
       "match_sources": [
         "markdown_files",
@@ -3173,7 +3173,7 @@
       "stars": 1,
       "created_at": "2026-08-30",
       "first_seen_at": "2026-09-01",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/90506069?v=4",
       "match_sources": [
         "markdown_files",
@@ -3191,7 +3191,7 @@
       "stars": 0,
       "created_at": "2026-09-02",
       "first_seen_at": "2026-09-03",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/211592156?v=4",
       "match_sources": [
         "markdown_files",
@@ -3209,7 +3209,7 @@
       "stars": 0,
       "created_at": "2026-08-15",
       "first_seen_at": "2026-09-04",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/233367458?v=4",
       "match_sources": [
         "markdown_files",
@@ -3227,7 +3227,7 @@
       "stars": 0,
       "created_at": "2026-08-20",
       "first_seen_at": "2026-09-04",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/70810472?v=4",
       "match_sources": [
         "markdown_files",
@@ -3245,7 +3245,7 @@
       "stars": 0,
       "created_at": "2026-08-23",
       "first_seen_at": "2026-09-04",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/101372852?v=4",
       "match_sources": [
         "markdown_files",
@@ -3263,7 +3263,7 @@
       "stars": 0,
       "created_at": "2026-04-21",
       "first_seen_at": "2026-09-05",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/97836215?v=4",
       "match_sources": [
         "js_code",
@@ -3282,7 +3282,7 @@
       "stars": 0,
       "created_at": "2026-08-10",
       "first_seen_at": "2026-09-06",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/14254374?v=4",
       "match_sources": [
         "json_files",
@@ -3304,14 +3304,14 @@
       "stars": 1,
       "created_at": "2026-06-25",
       "first_seen_at": "2026-09-07",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/174873861?v=4",
       "match_sources": [
         "markdown_files"
       ],
       "is_fork": false,
       "archived": false,
-      "pushed_at": "2026-09-12"
+      "pushed_at": "2026-09-21"
     },
     {
       "full_name": "nickthelegend/molfi-fun",
@@ -3321,7 +3321,7 @@
       "stars": 0,
       "created_at": "2026-09-05",
       "first_seen_at": "2026-09-07",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/82558763?v=4",
       "match_sources": [
         "docs_path",
@@ -3340,7 +3340,7 @@
       "stars": 0,
       "created_at": "2026-09-06",
       "first_seen_at": "2026-09-08",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/135285069?v=4",
       "match_sources": [
         "json_files"
@@ -3357,7 +3357,7 @@
       "stars": 0,
       "created_at": "2026-09-11",
       "first_seen_at": "2026-09-12",
-      "last_seen_at": "2026-09-21",
+      "last_seen_at": "2026-09-22",
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/82558763?v=4",
       "match_sources": [
         "docs_path",

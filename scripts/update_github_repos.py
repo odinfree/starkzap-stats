@@ -31,12 +31,13 @@ DISALLOWED_MENTION_QUERY = "starkzapp"
 
 EXCLUDE_REPOS = {
     STARKZAP_REPO,
+    "odinfree/starkzap-stats",
     "welttowelt/starkzap-stats",
     "starkience/starkzap-stats",
 }
 EXCLUDE_REPOS_LOWER = {repo.lower() for repo in EXCLUDE_REPOS}
 BUILDER_LOGIN_REPLACEMENTS = {
-    "abdelhamidbakhta": "welttowelt",
+    "abdelhamidbakhta": "odinfree",
 }
 
 QUERY_SETS: List[Tuple[str, str]] = [
